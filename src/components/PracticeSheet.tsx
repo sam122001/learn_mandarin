@@ -63,8 +63,8 @@ export const PracticeSheet = () => {
   // Get grid styles based on type
   const getGridStyles = (type: GridType) => {
     const baseStyles: any = {
-      width: 60,
-      height: 60,
+      width: { xs: 50, sm: 55, md: 60 },
+      height: { xs: 50, sm: 55, md: 60 },
       border: type === 'tianzi' ? '2px solid #000' : '1px solid #000',
       borderColor: '#000',
       display: 'flex',
@@ -197,9 +197,17 @@ export const PracticeSheet = () => {
           }
         `}
       </style>
-      <Container maxWidth="lg" sx={{ py: 4 }}>
+      <Container maxWidth="lg" sx={{ py: { xs: 2, sm: 3, md: 4 }, px: { xs: 2, sm: 3 } }}>
         <Box className="no-print">
-          <Typography variant="h4" gutterBottom sx={{ mb: 3, fontWeight: 700 }}>
+          <Typography 
+            variant="h4" 
+            gutterBottom 
+            sx={{ 
+              mb: { xs: 2, sm: 3 }, 
+              fontWeight: 700,
+              fontSize: { xs: '1.5rem', sm: '2rem', md: '2.125rem' }
+            }}
+          >
             Practice Sheet Generator
           </Typography>
 
@@ -211,7 +219,7 @@ export const PracticeSheet = () => {
               <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>
                 Type or paste the Chinese characters you want to practice
               </Typography>
-              <Box sx={{ display: 'flex', gap: 2, mb: 3 }}>
+              <Box sx={{ display: 'flex', gap: 2, mb: { xs: 2, sm: 3 } }}>
                 <TextField
                   fullWidth
                   multiline
@@ -221,7 +229,7 @@ export const PracticeSheet = () => {
                   placeholder="e.g., 你好世界"
                   sx={{
                     '& .MuiInputBase-input': {
-                      fontSize: '1.5rem',
+                      fontSize: { xs: '1.2rem', sm: '1.35rem', md: '1.5rem' },
                       fontFamily: '"Noto Sans SC", serif',
                     },
                   }}
@@ -232,7 +240,7 @@ export const PracticeSheet = () => {
                 <Typography variant="h6" gutterBottom>
                   Select Grid Type
                 </Typography>
-                <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap' }}>
+                <Box sx={{ display: 'flex', gap: { xs: 1, sm: 2 }, flexWrap: 'wrap' }}>
                   {[
                     { value: 'cross' as GridType, label: 'Cross Lines' },
                     { value: 'diagonal' as GridType, label: 'Diagonal Lines' },
@@ -247,13 +255,15 @@ export const PracticeSheet = () => {
                         flexDirection: 'column',
                         alignItems: 'center',
                         gap: 1,
-                        p: 2,
+                        p: { xs: 1.5, sm: 2 },
                         border: gridType === option.value ? '2px solid' : '1px solid',
                         borderColor: gridType === option.value ? 'primary.main' : 'divider',
                         borderRadius: 2,
                         cursor: 'pointer',
                         bgcolor: gridType === option.value ? 'primary.50' : 'transparent',
                         transition: 'all 0.2s',
+                        flex: { xs: '1 1 calc(50% - 8px)', sm: '0 1 auto' },
+                        minWidth: { xs: 'calc(50% - 8px)', sm: 'auto' },
                         '&:hover': {
                           borderColor: 'primary.main',
                           bgcolor: 'action.hover',
@@ -287,14 +297,28 @@ export const PracticeSheet = () => {
           )}
 
           {characters.length > 0 && (
-            <Box sx={{ display: 'flex', justifyContent: 'space-between', mb: 3 }}>
-              <Typography variant="h5" sx={{ fontWeight: 600 }}>
+            <Box sx={{ 
+              display: 'flex', 
+              flexDirection: { xs: 'column', sm: 'row' },
+              justifyContent: 'space-between', 
+              alignItems: { xs: 'stretch', sm: 'center' },
+              gap: { xs: 1.5, sm: 0 },
+              mb: { xs: 2, sm: 3 } 
+            }}>
+              <Typography 
+                variant="h5" 
+                sx={{ 
+                  fontWeight: 600,
+                  fontSize: { xs: '1.25rem', sm: '1.5rem' }
+                }}
+              >
                 Your Practice Sheet
               </Typography>
               <Button
                 variant="outlined"
                 startIcon={<Download size={20} />}
                 onClick={handlePrint}
+                sx={{ width: { xs: '100%', sm: 'auto' } }}
               >
                 Print / Save as PDF
               </Button>
@@ -310,18 +334,21 @@ export const PracticeSheet = () => {
                 sx={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: 1.5,
-                  mb: 2.5,
+                  gap: { xs: 1, sm: 1.5 },
+                  mb: { xs: 2, sm: 2.5 },
                   pageBreakInside: 'avoid',
-                  minHeight: '140px',
+                  minHeight: { xs: '120px', sm: '140px' },
                 }}
               >
                 {/* Pinyin on the left */}
-                <Box sx={{ minWidth: '50px', textAlign: 'left' }}>
+                <Box sx={{ 
+                  minWidth: { xs: '40px', sm: '50px' }, 
+                  textAlign: 'left' 
+                }}>
                   <Typography
                     variant="body1"
                     sx={{
-                      fontSize: '0.95rem',
+                      fontSize: { xs: '0.8rem', sm: '0.9rem', md: '0.95rem' },
                       fontWeight: 500,
                       fontFamily: 'monospace',
                     }}
@@ -333,9 +360,20 @@ export const PracticeSheet = () => {
                 
 
                 {/* Grids in two rows */}
-                <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.5, flex: 1 }}>
+                <Box sx={{ 
+                  display: 'flex', 
+                  flexDirection: 'column', 
+                  gap: { xs: 0.25, sm: 0.5 }, 
+                  flex: 1,
+                  overflow: { xs: 'auto', sm: 'visible' }
+                }}>
                   {/* First row: 10 grids */}
-                  <Box sx={{ display: 'flex', gap: 0.5, alignItems: 'center' }}>
+                  <Box sx={{ 
+                    display: 'flex', 
+                    gap: { xs: 0.25, sm: 0.5 }, 
+                    alignItems: 'center',
+                    flexWrap: { xs: 'nowrap', sm: 'nowrap' }
+                  }}>
                     {[...Array(10)].map((_, i) => (
                       <Box
                         key={`row1-${i}`}
@@ -345,7 +383,7 @@ export const PracticeSheet = () => {
                           <Typography
                             sx={{
                               fontFamily: '"Noto Sans SC", serif',
-                              fontSize: '2rem',
+                              fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' },
                               color: '#000',
                               fontWeight: 'bold',
                               zIndex: 1,
@@ -358,7 +396,7 @@ export const PracticeSheet = () => {
                           <Typography
                             sx={{
                               fontFamily: '"Noto Sans SC", serif',
-                              fontSize: '1.5rem',
+                              fontSize: { xs: '1.1rem', sm: '1.3rem', md: '1.5rem' },
                               color: 'rgba(0, 0, 0, 0.4)',
                               zIndex: 1,
                             }}
@@ -371,7 +409,12 @@ export const PracticeSheet = () => {
                   </Box>
 
                   {/* Second row: 10 grids */}
-                  <Box sx={{ display: 'flex', gap: 0.5, alignItems: 'center' }}>
+                  <Box sx={{ 
+                    display: 'flex', 
+                    gap: { xs: 0.25, sm: 0.5 }, 
+                    alignItems: 'center',
+                    flexWrap: { xs: 'nowrap', sm: 'nowrap' }
+                  }}>
                     {[...Array(10)].map((_, i) => (
                       <Box
                         key={`row2-${i}`}

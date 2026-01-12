@@ -41,9 +41,9 @@ function App() {
   const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
   const menuItems = [
-    { id: 'browser' as View, label: 'HSK Browser', icon: <BookOpen size={24} /> },
-    { id: 'practice' as View, label: 'Practice Sheet', icon: <FileText size={24} /> },
-    { id: 'lookup' as View, label: 'Character Lookup', icon: <Search size={24} /> },
+    { id: 'browser' as View, label: 'HSK Browser', icon: <BookOpen size={isMobile ? 20 : 24} /> },
+    { id: 'lookup' as View, label: 'Character Details', icon: <Search size={isMobile ? 20 : 24} /> },
+    { id: 'practice' as View, label: 'Practice Sheet', icon: <FileText size={isMobile ? 20 : 24} /> },
   ];
 
   const handleNavigation = (view: View) => {
@@ -65,23 +65,23 @@ function App() {
     switch (currentView) {
       case 'browser':
         return <HSKBrowser onCharacterClick={handleCharacterClick} />;
-      case 'practice':
-        return <PracticeSheet />;
       case 'lookup':
         return <CharacterLookup initialCharacter={selectedCharacter} />;
+      case 'practice':
+        return <PracticeSheet />;
       default:
         return <HSKBrowser onCharacterClick={handleCharacterClick} />;
     }
   };
 
   const drawer = (
-    <Box sx={{ width: 250, pt: 2 }}>
+    <Box sx={{ width: '100%', pt: 2 }}>
       <Box sx={{ px: 2, mb: 2 }}>
         <Typography variant="h6" sx={{ fontWeight: 700, display: 'flex', alignItems: 'center', gap: 1 }}>
-          <Lightbulb size={24} />
-          HSK Learning
+          Let's Learn Chinese!
         </Typography>
       </Box>
+
       <List>
         {menuItems.map((item) => (
           <ListItem key={item.id} disablePadding>
@@ -89,8 +89,13 @@ function App() {
               selected={currentView === item.id}
               onClick={() => handleNavigation(item.id)}
             >
-              <ListItemIcon>{item.icon}</ListItemIcon>
-              <ListItemText primary={item.label} />
+            <ListItemIcon sx={{ minWidth: { xs: 40, sm: 56 } }}>{item.icon}</ListItemIcon>
+            <ListItemText 
+              primary={item.label} 
+              primaryTypographyProps={{
+                fontSize: { xs: '0.875rem', sm: '1rem' }
+              }}
+            />
             </ListItemButton>
           </ListItem>
         ))}
@@ -110,9 +115,18 @@ function App() {
           >
             <MenuIcon size={24} />
           </IconButton>
-          <Lightbulb size={28} style={{ marginRight: 12 }} />
-          <Typography variant="h6" noWrap component="div" sx={{ flexGrow: 1, fontWeight: 700 }}>
-            HSK Chinese Learning
+          <Lightbulb size={isMobile ? 24 : 28} style={{ marginRight: isMobile ? 8 : 12 }} />
+          <Typography 
+            variant="h6" 
+            noWrap 
+            component="div" 
+            sx={{ 
+              flexGrow: 1, 
+              fontWeight: 700,
+              fontSize: { xs: '0.9rem', sm: '1rem', md: '1.25rem' }
+            }}
+          >
+            {isMobile ? 'HSK Learning' : 'HSK Chinese Learning'}
           </Typography>
           <IconButton color="inherit" onClick={toggleTheme}>
             {mode === 'light' ? <Moon size={24} /> : <Sun size={24} />}
@@ -125,6 +139,11 @@ function App() {
           anchor="left"
           open={drawerOpen}
           onClose={() => setDrawerOpen(false)}
+          sx={{
+            '& .MuiDrawer-paper': {
+              width: { xs: 240, sm: 250 },
+            },
+          }}
         >
           {drawer}
         </Drawer>
@@ -132,12 +151,12 @@ function App() {
         <Drawer
           variant="permanent"
           sx={{
-            width: 250,
+            width: { md: 240, lg: 250 },
             flexShrink: 0,
             '& .MuiDrawer-paper': {
-              width: 250,
+              width: { md: 240, lg: 250 },
               boxSizing: 'border-box',
-              top: 64,
+              top: { md: 64 },
             },
           }}
         >
@@ -149,11 +168,11 @@ function App() {
         component="main"
         sx={{
           flexGrow: 1,
-          pt: 8,
-          width: { md: `calc(100% - 250px)` },
+          pt: { xs: 7, sm: 8 },
+          width: { xs: '100%', md: `calc(100% - 240px)`, lg: `calc(100% - 250px)` },
           display: 'flex',
           flexDirection: 'column',
-          minHeight: 'calc(100vh - 64px)',
+          minHeight: { xs: 'calc(100vh - 56px)', sm: 'calc(100vh - 64px)' },
         }}
       >
         <Box sx={{ flex: 1 }}>
@@ -173,7 +192,7 @@ function App() {
             textAlign: 'center',
           }}
         >
-          <Typography variant="caption" color="text.secondary" sx={{ fontSize: '0.75rem' }}>
+          <Typography variant="caption" color="text.secondary" sx={{ fontSize: { xs: '0.65rem', sm: '0.75rem' }, px: { xs: 1, sm: 2 } }}>
             This project utilizes{' '}
             <Link href="#" color="primary" sx={{ textDecoration: 'none' }}>
               HSK 3.0 vocabulary data

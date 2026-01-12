@@ -127,7 +127,7 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
     if (!char.stroke_order || char.stroke_order_gif) return;
     
     try {
-      const response = await fetch(`/src/output/data/${char.stroke_order}`);
+      const response = await fetch(char.stroke_order);
       if (response.ok) {
         let svgText = await response.text();
         containerRef.innerHTML = svgText;
@@ -190,7 +190,7 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
     } catch (err) {
       console.error('Failed to load SVG:', err);
       if (containerRef) {
-        containerRef.innerHTML = `<img src="/src/output/data/${char.stroke_order}" style="width: 200px; height: 200px; object-fit: contain;" onerror="this.style.display='none'" />`;
+        containerRef.innerHTML = `<img src="${char.stroke_order}" style="width: 200px; height: 200px; object-fit: contain;" onerror="this.style.display='none'" />`;
       }
     }
   };
@@ -220,20 +220,39 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
   };
 
   return (
-    <Container maxWidth="md" sx={{ py: 4 }}>
-      <Typography variant="h4" gutterBottom sx={{ mb: 3, fontWeight: 700 }}>
+    <Container maxWidth="md" sx={{ py: { xs: 2, sm: 3, md: 4 }, px: { xs: 2, sm: 3 } }}>
+      <Typography 
+        variant="h4" 
+        gutterBottom 
+        sx={{ 
+          mb: { xs: 2, sm: 3 }, 
+          fontWeight: 700,
+          fontSize: { xs: '1.5rem', sm: '2rem', md: '2.125rem' }
+        }}
+      >
         Character Lookup
       </Typography>
 
-      <Card sx={{ mb: 4 }}>
-        <CardContent>
-          <Typography variant="h6" gutterBottom>
+      <Card sx={{ mb: { xs: 2, sm: 3, md: 4 } }}>
+        <CardContent sx={{ p: { xs: 2, sm: 3 } }}>
+          <Typography 
+            variant="h6" 
+            gutterBottom
+            sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}
+          >
             Search for a Character
           </Typography>
-          <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>
+          <Typography 
+            variant="body2" 
+            color="text.secondary" 
+            sx={{ 
+              mb: { xs: 1.5, sm: 2 },
+              fontSize: { xs: '0.8rem', sm: '0.875rem' }
+            }}
+          >
             Enter one or more Chinese characters to see their details
           </Typography>
-          <Box sx={{ display: 'flex', gap: 2 }}>
+          <Box sx={{ display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, gap: { xs: 1.5, sm: 2 } }}>
             <TextField
               fullWidth
               value={searchTerm}
@@ -242,8 +261,9 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
               placeholder="e.g., 学"
               sx={{
                 '& .MuiInputBase-input': {
-                  fontSize: '2rem',
+                  fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' },
                   fontFamily: '"Noto Sans SC", serif',
+                  py: { xs: 1, sm: 1.5 },
                 },
               }}
             />
@@ -252,7 +272,10 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
               onClick={handleSearchClick}
               disabled={loading || !searchTerm.trim()}
               startIcon={<Search size={20} />}
-              sx={{ minWidth: 120 }}
+              sx={{ 
+                minWidth: { xs: '100%', sm: 120 },
+                py: { xs: 1.5, sm: 1 }
+              }}
             >
               Search
             </Button>
@@ -281,34 +304,53 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
             return (
               <Accordion key={character.id} defaultExpanded={index === 0}>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                  <Box sx={{ display: 'flex', alignItems: 'center', gap: 2, width: '100%' }}>
+                  <Box sx={{ 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    gap: { xs: 1, sm: 2 }, 
+                    width: '100%',
+                    flexWrap: { xs: 'wrap', sm: 'nowrap' }
+                  }}>
                     <Typography
                       variant="h3"
                       sx={{
                         fontFamily: '"Noto Sans SC", serif',
                         color: 'primary.main',
-                        minWidth: '80px',
+                        minWidth: { xs: '60px', sm: '80px' },
+                        fontSize: { xs: '2rem', sm: '3rem' },
                       }}
                     >
                       {character.hanzi}
                     </Typography>
-                    <Chip label={`HSK ${character.hsk_level}`} color="primary" size="small" />
-                    <Typography variant="h6" color="text.secondary" sx={{ ml: 'auto' }}>
+                    <Chip 
+                      label={`HSK ${character.hsk_level}`} 
+                      color="primary" 
+                      size="small"
+                      sx={{ fontSize: { xs: '0.7rem', sm: '0.75rem' } }}
+                    />
+                    <Typography 
+                      variant="h6" 
+                      color="text.secondary" 
+                      sx={{ 
+                        ml: { xs: 'auto', sm: 'auto' },
+                        fontSize: { xs: '1rem', sm: '1.25rem' }
+                      }}
+                    >
                       {character.pinyin}
                     </Typography>
                   </Box>
                 </AccordionSummary>
-                <AccordionDetails>
+                <AccordionDetails sx={{ p: { xs: 1, sm: 2 } }}>
                   <Card>
-                    <CardContent>
-                      <Box sx={{ textAlign: 'center', py: 2 }}>
+                    <CardContent sx={{ p: { xs: 2, sm: 3 } }}>
+                      <Box sx={{ textAlign: 'center', py: { xs: 1, sm: 2 } }}>
                         <Typography
                           variant="h1"
                           sx={{
                             fontFamily: '"Noto Sans SC", serif',
                             color: 'primary.main',
-                            fontSize: '6rem',
-                            mb: 2,
+                            fontSize: { xs: '4rem', sm: '5rem', md: '6rem' },
+                            mb: { xs: 1, sm: 2 },
                           }}
                         >
                           {character.hanzi}
@@ -320,10 +362,17 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                         />
                       </Box>
 
-                      <Divider sx={{ my: 2 }} />
+                      <Divider sx={{ my: { xs: 1.5, sm: 2 } }} />
 
-                      <Box sx={{ mb: 3 }}>
-                        <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>
+                      <Box sx={{ mb: { xs: 2, sm: 3 } }}>
+                        <Typography 
+                          variant="h6" 
+                          gutterBottom 
+                          sx={{ 
+                            fontWeight: 600,
+                            fontSize: { xs: '1rem', sm: '1.25rem' }
+                          }}
+                        >
                           Pronunciation
                         </Typography>
                         {character.pinyin_all && character.pinyin_all.length > 1 ? (
@@ -334,7 +383,10 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                                 label={p}
                                 variant={idx === 0 ? 'filled' : 'outlined'}
                                 color={idx === 0 ? 'primary' : 'default'}
-                                sx={{ fontSize: '1.1rem', height: '36px' }}
+                                sx={{ 
+                                  fontSize: { xs: '0.9rem', sm: '1rem', md: '1.1rem' }, 
+                                  height: { xs: '32px', sm: '36px' }
+                                }}
                               />
                             ))}
                           </Box>
@@ -345,8 +397,15 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                         )}
                       </Box>
 
-                      <Box sx={{ mb: 3 }}>
-                        <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>
+                      <Box sx={{ mb: { xs: 2, sm: 3 } }}>
+                        <Typography 
+                          variant="h6" 
+                          gutterBottom 
+                          sx={{ 
+                            fontWeight: 600,
+                            fontSize: { xs: '1rem', sm: '1.25rem' }
+                          }}
+                        >
                           Meanings
                         </Typography>
                         <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 1 }}>
@@ -367,8 +426,15 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                       </Box>
 
                       {character.stroke_count > 0 && (
-                        <Box sx={{ mb: 3 }}>
-                          <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>
+                        <Box sx={{ mb: { xs: 2, sm: 3 } }}>
+                          <Typography 
+                            variant="h6" 
+                            gutterBottom 
+                            sx={{ 
+                              fontWeight: 600,
+                              fontSize: { xs: '1rem', sm: '1.25rem' }
+                            }}
+                          >
                             Stroke Count
                           </Typography>
                           <Typography variant="body1" color="text.secondary">
@@ -378,8 +444,15 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                       )}
 
                       {(character.stroke_order || character.stroke_order_gif) && (
-                        <Box sx={{ mb: 3 }}>
-                          <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>
+                        <Box sx={{ mb: { xs: 2, sm: 3 } }}>
+                          <Typography 
+                            variant="h6" 
+                            gutterBottom 
+                            sx={{ 
+                              fontWeight: 600,
+                              fontSize: { xs: '1rem', sm: '1.25rem' }
+                            }}
+                          >
                             Stroke Order
                           </Typography>
                           <Box
@@ -389,7 +462,7 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                               alignItems: 'center',
                               bgcolor: 'background.default',
                               borderRadius: 2,
-                              p: 2,
+                              p: { xs: 1, sm: 2 },
                             }}
                             onMouseEnter={() => {
                               const gifRef = gifRefs.current.get(gifRefKey);
@@ -409,18 +482,20 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                                 ref={(el) => {
                                   if (el) gifRefs.current.set(gifRefKey, el);
                                 }}
-                                src={`/src/output/data/${character.stroke_order_gif}`}
+                                src={character.stroke_order_gif}
                                 alt={`Stroke order for ${character.hanzi}`}
                                 style={{
-                                  width: '200px',
-                                  height: '200px',
+                                  width: '100%',
+                                  maxWidth: '200px',
+                                  height: 'auto',
+                                  aspectRatio: '1',
                                   objectFit: 'contain',
                                   cursor: 'pointer',
                                 }}
                                 onError={(e) => {
                                   const target = e.target as HTMLImageElement;
                                   if (character.stroke_order) {
-                                    target.src = `/src/output/data/${character.stroke_order}`;
+                                    target.src = character.stroke_order;
                                   } else {
                                     target.style.display = 'none';
                                   }
@@ -435,8 +510,9 @@ export const CharacterLookup = ({ initialCharacter }: CharacterLookupProps) => {
                                   }
                                 }}
                                 sx={{
-                                  width: '200px',
-                                  height: '200px',
+                                  width: '100%',
+                                  maxWidth: '200px',
+                                  aspectRatio: '1',
                                   display: 'flex',
                                   alignItems: 'center',
                                   justifyContent: 'center',

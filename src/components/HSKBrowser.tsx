@@ -194,8 +194,16 @@ export const HSKBrowser = ({ onCharacterClick }: HSKBrowserProps) => {
   };
 
   return (
-    <Container maxWidth="lg" sx={{ py: 4 }}>
-        <Typography variant="h4" gutterBottom sx={{ mb: 3, fontWeight: 700 }}>
+    <Container maxWidth="lg" sx={{ py: { xs: 2, sm: 3, md: 4 }, px: { xs: 2, sm: 3 } }}>
+        <Typography 
+          variant="h4" 
+          gutterBottom 
+          sx={{ 
+            mb: { xs: 2, sm: 3 }, 
+            fontWeight: 700,
+            fontSize: { xs: '1.5rem', sm: '2rem', md: '2.125rem' }
+          }}
+        >
           HSK Character Browser
         </Typography>
 
@@ -213,21 +221,29 @@ export const HSKBrowser = ({ onCharacterClick }: HSKBrowserProps) => {
             ),
           }}
           sx={{
-            mb: 2,
+            mb: { xs: 1.5, sm: 2 },
             '& .MuiInputBase-input': {
-              fontSize: '1.2rem',
+              fontSize: { xs: '1rem', sm: '1.1rem', md: '1.2rem' },
               fontFamily: searchTerm ? '"Noto Sans SC", serif' : 'inherit',
+              py: { xs: 1, sm: 1.5 },
             },
           }}
         />
       </Box>
 
-      <Box sx={{ borderBottom: 1, borderColor: 'divider', mb: 4 }}>
+      <Box sx={{ borderBottom: 1, borderColor: 'divider', mb: { xs: 2, sm: 3, md: 4 } }}>
         <Tabs
           value={selectedLevel}
           onChange={handleTabChange}
           variant="scrollable"
           scrollButtons="auto"
+          sx={{
+            '& .MuiTab-root': {
+              fontSize: { xs: '0.75rem', sm: '0.875rem' },
+              minWidth: { xs: 60, sm: 72 },
+              px: { xs: 1, sm: 1.5 },
+            },
+          }}
         >
           {[1, 2, 3, 4, 5, 6].map((level) => (
             <Tab key={level} label={`HSK ${level}`} value={level} />
@@ -248,11 +264,11 @@ export const HSKBrowser = ({ onCharacterClick }: HSKBrowserProps) => {
             : `No characters found for HSK Level ${selectedLevel}. Add some characters to get started!`}
         </Alert>
       ) : (
-        <Grid container spacing={2}>
+        <Grid container spacing={{ xs: 1.5, sm: 2 }}>
           {filteredCharacters.map((char) => {
             const isMatched = searchTerm.trim() && char.hanzi === searchTerm.trim();
             return (
-              <Grid {...({ item: true, xs: 6, sm: 4, md: 3, lg: 2 } as any)} key={char.id}>
+              <Grid {...({ item: true, xs: 4, sm: 3, md: 3, lg: 2, xl: 2 } as any)} key={char.id}>
               <Box
                 ref={(el: HTMLDivElement | null) => {
                   if (el) {
@@ -276,23 +292,39 @@ export const HSKBrowser = ({ onCharacterClick }: HSKBrowserProps) => {
                     },
                   }}
                 >
-                <CardContent sx={{ textAlign: 'center', p: 2 }}>
+                <CardContent sx={{ textAlign: 'center', p: { xs: 1, sm: 1.5, md: 2 } }}>
                   <Typography
                     variant="h3"
                     sx={{
                       fontFamily: '"Noto Sans SC", serif',
-                      mb: 1,
+                      mb: { xs: 0.5, sm: 1 },
                       color: 'primary.main',
                       textAlign: 'justify',
                       textAlignLast: 'center',
+                      fontSize: { xs: '2rem', sm: '2.5rem', md: '3rem' },
                     }}
                   >
                     {char.hanzi}
                   </Typography>
-                  <Typography variant="body2" color="text.secondary" sx={{ mb: 0.5 }}>
+                  <Typography 
+                    variant="body2" 
+                    color="text.secondary" 
+                    sx={{ 
+                      mb: { xs: 0.25, sm: 0.5 },
+                      fontSize: { xs: '0.75rem', sm: '0.875rem' }
+                    }}
+                  >
                     {char.pinyin || '—'}
                   </Typography>
-                  <Typography variant="caption" color="text.secondary" sx={{ display: 'block', minHeight: '2.5em' }}>
+                  <Typography 
+                    variant="caption" 
+                    color="text.secondary" 
+                    sx={{ 
+                      display: 'block', 
+                      minHeight: { xs: '2em', sm: '2.5em' },
+                      fontSize: { xs: '0.65rem', sm: '0.75rem' }
+                    }}
+                  >
                     {char.meanings && char.meanings.length > 0 ? char.meanings[0] : '—'}
                   </Typography>
                 </CardContent>

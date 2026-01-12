@@ -164,7 +164,11 @@ const loadCharacter = (detailFile: string): HSKCharacter | null => {
       : [];
 
     // Convert SVG path to GIF path if SVG exists
-    const svgPath = data.strokes?.svg || '';
+    // Ensure path is absolute (starts with /)
+    let svgPath = data.strokes?.svg || '';
+    if (svgPath && !svgPath.startsWith('/')) {
+      svgPath = '/' + svgPath;
+    }
     const gifPath = svgPath ? svgPath.replace('/svg/', '/gif/').replace('.svg', '.gif') : undefined;
 
     const character: HSKCharacter = {
