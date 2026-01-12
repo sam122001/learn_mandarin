@@ -1,0 +1,26 @@
+{
+  "hanzi": "响",
+  "pinyin": [
+    "xiang3"
+  ],
+  "meanings": [
+    "classifier for noises",
+    "echo",
+    "loud",
+    "noise",
+    "sound",
+    "to make a sound",
+    "to ring",
+    "to sound"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/21709.svg"
+  }
+}

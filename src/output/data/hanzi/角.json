@@ -1,0 +1,30 @@
+{
+  "hanzi": "角",
+  "pinyin": [
+    "jiao3",
+    "jue2"
+  ],
+  "meanings": [
+    "CL:個|个[ge4]",
+    "ancient three legged wine vessel",
+    "angle",
+    "corner",
+    "horn",
+    "horn-shaped",
+    "role (theater)",
+    "surname Jue",
+    "third note of pentatonic scale",
+    "to compete",
+    "unit of money equal to 0.1 yuan, or 10 cents (a dime)"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/35282.svg"
+  }
+}

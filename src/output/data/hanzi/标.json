@@ -1,0 +1,31 @@
+{
+  "hanzi": "标",
+  "pinyin": [
+    "biao1"
+  ],
+  "meanings": [
+    "(old) the topmost branches of a tree",
+    "award",
+    "bid",
+    "classifier for military units",
+    "label",
+    "mark",
+    "prize",
+    "quota",
+    "sign",
+    "target",
+    "to bear (a brand name, registration number etc)",
+    "to mark with a symbol, label, lettering etc",
+    "visible symptom"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/26631.svg"
+  }
+}

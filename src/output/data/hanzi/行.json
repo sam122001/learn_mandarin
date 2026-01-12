@@ -1,0 +1,36 @@
+{
+  "hanzi": "行",
+  "pinyin": [
+    "hang2",
+    "heng2",
+    "xing2"
+  ],
+  "meanings": [
+    "(bound form) commercial firm",
+    "(bound form) current; in circulation",
+    "(bound form) line of business; trade; profession",
+    "(bound form) row; line",
+    "(bound form) temporary; makeshift",
+    "(bound form) to do; to perform",
+    "(bound form) to rank (first, second etc) among one's siblings (by age)",
+    "(bound form) to walk; to go; to travel",
+    "(in data tables) row; (Tw) column",
+    "(literary) about to; soon",
+    "(literary) trip; journey; visit",
+    "all right; OK!; will do",
+    "behavior; conduct (Taiwan pr. [xing4])",
+    "capable; competent",
+    "classifier for rows or lines",
+    "used in 道行[dao4 heng2]"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/34892.svg"
+  }
+}

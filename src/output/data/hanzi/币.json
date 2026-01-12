@@ -1,0 +1,22 @@
+{
+  "hanzi": "币",
+  "pinyin": [
+    "bi4"
+  ],
+  "meanings": [
+    "coins",
+    "currency",
+    "money",
+    "silk"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/24065.svg"
+  }
+}

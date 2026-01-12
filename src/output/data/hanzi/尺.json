@@ -1,0 +1,26 @@
+{
+  "hanzi": "尺",
+  "pinyin": [
+    "che3",
+    "chi3"
+  ],
+  "meanings": [
+    "CL:支[zhi1],把[ba3]",
+    "a Chinese foot",
+    "a ruler",
+    "a tape-measure",
+    "one of the characters used to represent a musical note in gongche notation, 工尺譜|工尺谱[gong1 che3 pu3]",
+    "one of the three acupoints for measuring pulse in Chinese medicine",
+    "one-third of a meter"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/23610.svg"
+  }
+}

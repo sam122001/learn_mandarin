@@ -1,0 +1,36 @@
+{
+  "hanzi": "格",
+  "pinyin": [
+    "ge1",
+    "ge2"
+  ],
+  "meanings": [
+    "(classical) to arrive",
+    "(classical) to investigate",
+    "(classical) to obstruct",
+    "(grammar) case",
+    "(legal) case",
+    "character",
+    "frame",
+    "pattern",
+    "rule",
+    "square",
+    "standard",
+    "style",
+    "to come",
+    "to hinder",
+    "to study exhaustively",
+    "used in 格格[ge1 ge1]",
+    "used in 格登[ge1 deng1]"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26684.svg"
+  }
+}

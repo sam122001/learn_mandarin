@@ -1,0 +1,23 @@
+{
+  "hanzi": "唉",
+  "pinyin": [
+    "ai1",
+    "ai4"
+  ],
+  "meanings": [
+    "alas",
+    "interjection or grunt of agreement or recognition (e.g. yes, it's me!)",
+    "oh dear",
+    "to sigh"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/21769.svg"
+  }
+}

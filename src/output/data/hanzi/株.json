@@ -1,0 +1,24 @@
+{
+  "hanzi": "株",
+  "pinyin": [
+    "zhu1"
+  ],
+  "meanings": [
+    "a plant",
+    "classifier for trees or plants",
+    "strain (biology)",
+    "stump (tree root)",
+    "to involve others (in shady business)",
+    "tree trunk"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26666.svg"
+  }
+}

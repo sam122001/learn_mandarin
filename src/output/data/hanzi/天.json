@@ -1,0 +1,21 @@
+{
+  "hanzi": "天",
+  "pinyin": [
+    "tian1"
+  ],
+  "meanings": [
+    "day",
+    "heaven",
+    "sky"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/22825.svg"
+  }
+}

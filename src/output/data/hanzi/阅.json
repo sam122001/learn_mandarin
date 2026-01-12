@@ -1,0 +1,24 @@
+{
+  "hanzi": "阅",
+  "pinyin": [
+    "yue4"
+  ],
+  "meanings": [
+    "to experience",
+    "to go through",
+    "to inspect",
+    "to peruse",
+    "to read",
+    "to review"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/38405.svg"
+  }
+}

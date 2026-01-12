@@ -1,0 +1,26 @@
+{
+  "hanzi": "压",
+  "pinyin": [
+    "ya1",
+    "ya4"
+  ],
+  "meanings": [
+    "pressure",
+    "to keep under (control)",
+    "to press",
+    "to push down",
+    "used in 壓板|压板[ya4 ban3]",
+    "used in 壓根兒|压根儿[ya4 gen1 r5]",
+    "used in 壓馬路|压马路[ya4 ma3 lu4]"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/21387.svg"
+  }
+}

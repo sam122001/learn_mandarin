@@ -1,0 +1,31 @@
+{
+  "hanzi": "操",
+  "pinyin": [
+    "cao1",
+    "cao4"
+  ],
+  "meanings": [
+    "old variant of 操[cao1]",
+    "to control",
+    "to drill (practice)",
+    "to exercise",
+    "to grasp",
+    "to hold",
+    "to manage",
+    "to operate",
+    "to play",
+    "to speak (a language)",
+    "to steer",
+    "variant of 肏[cao4]"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 16,
+    "svg": "strokes/svg/25805.svg"
+  }
+}

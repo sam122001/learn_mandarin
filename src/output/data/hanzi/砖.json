@@ -1,0 +1,23 @@
+{
+  "hanzi": "砖",
+  "pinyin": [
+    "zhuan1"
+  ],
+  "meanings": [
+    "CL:塊|块[kuai4]",
+    "brick",
+    "tile (floor or wall, not roof)",
+    "variant of 甎|砖[zhuan1]",
+    "variant of 磚|砖[zhuan1]"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/30742.svg"
+  }
+}

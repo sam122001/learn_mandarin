@@ -1,0 +1,23 @@
+{
+  "hanzi": "热",
+  "pinyin": [
+    "re4"
+  ],
+  "meanings": [
+    "fervent",
+    "heat",
+    "hot (of weather)",
+    "to heat up",
+    "to warm up"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/28909.svg"
+  }
+}

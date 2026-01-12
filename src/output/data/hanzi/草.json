@@ -1,0 +1,28 @@
+{
+  "hanzi": "草",
+  "pinyin": [
+    "cao3",
+    "cao4"
+  ],
+  "meanings": [
+    "CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]",
+    "careless",
+    "draft (of a document)",
+    "grass",
+    "manuscript",
+    "rough",
+    "straw",
+    "variant of 肏[cao4]",
+    "variant of 草[cao3]"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/33609.svg"
+  }
+}

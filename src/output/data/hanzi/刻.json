@@ -1,0 +1,25 @@
+{
+  "hanzi": "刻",
+  "pinyin": [
+    "ke4"
+  ],
+  "meanings": [
+    "classifier for short time intervals",
+    "moment",
+    "oppressive",
+    "quarter (hour)",
+    "to carve",
+    "to cut",
+    "to engrave"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/21051.svg"
+  }
+}

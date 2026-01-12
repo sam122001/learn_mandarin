@@ -1,0 +1,31 @@
+{
+  "hanzi": "次",
+  "pinyin": [
+    "ci4"
+  ],
+  "meanings": [
+    "classifier for enumerated events: time",
+    "hypo- (chemistry)",
+    "inferior quality",
+    "infra-",
+    "next in sequence",
+    "order",
+    "second",
+    "secondary",
+    "sequence",
+    "sub-",
+    "substandard",
+    "the second (day, time etc)",
+    "vice-"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/27425.svg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "hanzi": "档",
+  "pinyin": [
+    "dang3",
+    "dang4"
+  ],
+  "meanings": [
+    "(Tw) gear (variant of 擋|挡[dang3])",
+    "(Tw) timeslot for a show or program",
+    "(bound form) (of goods) grade",
+    "(bound form) files",
+    "(bound form) shelves (for files); pigeonholes",
+    "Taiwan pr. [dang3]",
+    "classifier for events, affairs etc",
+    "classifier for shows",
+    "crosspiece (of a table etc)",
+    "vendor's open-air stall"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26723.svg"
+  }
+}

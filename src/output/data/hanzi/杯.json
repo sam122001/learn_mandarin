@@ -1,0 +1,22 @@
+{
+  "hanzi": "杯",
+  "pinyin": [
+    "bei1"
+  ],
+  "meanings": [
+    "classifier for certain containers of liquids: glass, cup",
+    "cup",
+    "trophy cup",
+    "variant of 杯[bei1]"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/26479.svg"
+  }
+}

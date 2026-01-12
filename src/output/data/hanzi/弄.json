@@ -1,0 +1,31 @@
+{
+  "hanzi": "弄",
+  "pinyin": [
+    "long4",
+    "nong4"
+  ],
+  "meanings": [
+    "alley",
+    "lane",
+    "old variant of 弄[nong4]",
+    "to do",
+    "to fix",
+    "to fool with",
+    "to handle",
+    "to manage",
+    "to mess with",
+    "to play with",
+    "to toy with",
+    "variant of 弄[long4]"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/24324.svg"
+  }
+}

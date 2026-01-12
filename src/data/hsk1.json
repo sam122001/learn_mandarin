@@ -1,0 +1,2834 @@
+[
+  {
+    "character": "我",
+    "pinyin": "wǒ",
+    "meaning": "I; me",
+    "radical": "戈",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/我.gif",
+      "page": "https://www.strokeorder.com/character/我"
+    },
+    "examples": [
+      {
+        "sentence": "我是学生。",
+        "pinyin": "Wǒ shì xuéshēng.",
+        "meaning": "I am a student."
+      },
+      {
+        "sentence": "我爱中国。",
+        "pinyin": "Wǒ ài Zhōngguó.",
+        "meaning": "I love China."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "你",
+    "pinyin": "nǐ",
+    "meaning": "you",
+    "radical": "亻",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/你.gif",
+      "page": "https://www.strokeorder.com/character/你"
+    },
+    "examples": [
+      {
+        "sentence": "你好吗？",
+        "pinyin": "Nǐ hǎo ma?",
+        "meaning": "How are you?"
+      },
+      {
+        "sentence": "我认识你。",
+        "pinyin": "Wǒ rènshi nǐ.",
+        "meaning": "I know you."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "他",
+    "pinyin": "tā",
+    "meaning": "he; him",
+    "radical": "亻",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/他.gif",
+      "page": "https://www.strokeorder.com/character/他"
+    },
+    "examples": [
+      {
+        "sentence": "他是老师。",
+        "pinyin": "Tā shì lǎoshī.",
+        "meaning": "He is a teacher."
+      },
+      {
+        "sentence": "他在学校。",
+        "pinyin": "Tā zài xuéxiào.",
+        "meaning": "He is at school."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "是",
+    "pinyin": "shì",
+    "meaning": "to be",
+    "radical": "日",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/是.gif",
+      "page": "https://www.strokeorder.com/character/是"
+    },
+    "examples": [
+      {
+        "sentence": "我是医生。",
+        "pinyin": "Wǒ shì yīshēng.",
+        "meaning": "I am a doctor."
+      },
+      {
+        "sentence": "这是书。",
+        "pinyin": "Zhè shì shū.",
+        "meaning": "This is a book."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "不",
+    "pinyin": "bù",
+    "meaning": "not; no",
+    "radical": "一",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/不.gif",
+      "page": "https://www.strokeorder.com/character/不"
+    },
+    "examples": [
+      {
+        "sentence": "我不好。",
+        "pinyin": "Wǒ bù hǎo.",
+        "meaning": "I am not well."
+      },
+      {
+        "sentence": "他不在。",
+        "pinyin": "Tā bù zài.",
+        "meaning": "He is not here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "了",
+    "pinyin": "le",
+    "meaning": "completed action marker",
+    "radical": "亅",
+    "stroke_count": 2,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/了.gif",
+      "page": "https://www.strokeorder.com/character/了"
+    },
+    "examples": [
+      {
+        "sentence": "我吃饭了。",
+        "pinyin": "Wǒ chī fàn le.",
+        "meaning": "I have eaten."
+      },
+      {
+        "sentence": "他走了。",
+        "pinyin": "Tā zǒu le.",
+        "meaning": "He left."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "在",
+    "pinyin": "zài",
+    "meaning": "to be at",
+    "radical": "土",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/在.gif",
+      "page": "https://www.strokeorder.com/character/在"
+    },
+    "examples": [
+      {
+        "sentence": "我在家。",
+        "pinyin": "Wǒ zài jiā.",
+        "meaning": "I am at home."
+      },
+      {
+        "sentence": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "meaning": "The book is on the table."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "有",
+    "pinyin": "yǒu",
+    "meaning": "to have",
+    "radical": "月",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/有.gif",
+      "page": "https://www.strokeorder.com/character/有"
+    },
+    "examples": [
+      {
+        "sentence": "我有书。",
+        "pinyin": "Wǒ yǒu shū.",
+        "meaning": "I have a book."
+      },
+      {
+        "sentence": "他有时间。",
+        "pinyin": "Tā yǒu shíjiān.",
+        "meaning": "He has time."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "这",
+    "pinyin": "zhè",
+    "meaning": "this",
+    "radical": "辶",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/这.gif",
+      "page": "https://www.strokeorder.com/character/这"
+    },
+    "examples": [
+      {
+        "sentence": "这是我家。",
+        "pinyin": "Zhè shì wǒ jiā.",
+        "meaning": "This is my home."
+      },
+      {
+        "sentence": "这本书很好。",
+        "pinyin": "Zhè běn shū hěn hǎo.",
+        "meaning": "This book is very good."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "那",
+    "pinyin": "nà",
+    "meaning": "that",
+    "radical": "阝",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/那.gif",
+      "page": "https://www.strokeorder.com/character/那"
+    },
+    "examples": [
+      {
+        "sentence": "那是学校。",
+        "pinyin": "Nà shì xuéxiào.",
+        "meaning": "That is a school."
+      },
+      {
+        "sentence": "那个人是老师。",
+        "pinyin": "Nà gè rén shì lǎoshī.",
+        "meaning": "That person is a teacher."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "哪",
+    "pinyin": "nǎ",
+    "meaning": "which",
+    "radical": "口",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/哪.gif",
+      "page": "https://www.strokeorder.com/character/哪"
+    },
+    "examples": [
+      {
+        "sentence": "你是哪国人？",
+        "pinyin": "Nǐ shì nǎ guó rén?",
+        "meaning": "Which country are you from?"
+      },
+      {
+        "sentence": "你要哪本书？",
+        "pinyin": "Nǐ yào nǎ běn shū?",
+        "meaning": "Which book do you want?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "谁",
+    "pinyin": "shéi",
+    "meaning": "who",
+    "radical": "讠",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/谁.gif",
+      "page": "https://www.strokeorder.com/character/谁"
+    },
+    "examples": [
+      {
+        "sentence": "他是谁？",
+        "pinyin": "Tā shì shéi?",
+        "meaning": "Who is he?"
+      },
+      {
+        "sentence": "谁在家？",
+        "pinyin": "Shéi zài jiā?",
+        "meaning": "Who is at home?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "什",
+    "pinyin": "shén",
+    "meaning": "what (part of 什么)",
+    "radical": "亻",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/什.gif",
+      "page": "https://www.strokeorder.com/character/什"
+    },
+    "examples": [
+      {
+        "sentence": "这是什么？",
+        "pinyin": "Zhè shì shénme?",
+        "meaning": "What is this?"
+      },
+      {
+        "sentence": "你在做什么？",
+        "pinyin": "Nǐ zài zuò shénme?",
+        "meaning": "What are you doing?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "么",
+    "pinyin": "me",
+    "meaning": "question particle (part of 什么)",
+    "radical": "丿",
+    "stroke_count": 3,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/么.gif",
+      "page": "https://www.strokeorder.com/character/么"
+    },
+    "examples": [
+      {
+        "sentence": "你要什么？",
+        "pinyin": "Nǐ yào shénme?",
+        "meaning": "What do you want?"
+      },
+      {
+        "sentence": "你在看什么？",
+        "pinyin": "Nǐ zài kàn shénme?",
+        "meaning": "What are you watching?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "吗",
+    "pinyin": "ma",
+    "meaning": "question particle",
+    "radical": "口",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/吗.gif",
+      "page": "https://www.strokeorder.com/character/吗"
+    },
+    "examples": [
+      {
+        "sentence": "你是学生吗？",
+        "pinyin": "Nǐ shì xuéshēng ma?",
+        "meaning": "Are you a student?"
+      },
+      {
+        "sentence": "他忙吗？",
+        "pinyin": "Tā máng ma?",
+        "meaning": "Is he busy?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "的",
+    "pinyin": "de",
+    "meaning": "possessive particle",
+    "radical": "白",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/的.gif",
+      "page": "https://www.strokeorder.com/character/的"
+    },
+    "examples": [
+      {
+        "sentence": "这是我的书。",
+        "pinyin": "Zhè shì wǒ de shū.",
+        "meaning": "This is my book."
+      },
+      {
+        "sentence": "他是我的朋友。",
+        "pinyin": "Tā shì wǒ de péngyǒu.",
+        "meaning": "He is my friend."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "和",
+    "pinyin": "hé",
+    "meaning": "and",
+    "radical": "口",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/和.gif",
+      "page": "https://www.strokeorder.com/character/和"
+    },
+    "examples": [
+      {
+        "sentence": "我和你去。",
+        "pinyin": "Wǒ hé nǐ qù.",
+        "meaning": "You and I go together."
+      },
+      {
+        "sentence": "他和老师说话。",
+        "pinyin": "Tā hé lǎoshī shuōhuà.",
+        "meaning": "He talks with the teacher."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "也",
+    "pinyin": "yě",
+    "meaning": "also",
+    "radical": "乙",
+    "stroke_count": 3,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/也.gif",
+      "page": "https://www.strokeorder.com/character/也"
+    },
+    "examples": [
+      {
+        "sentence": "我也是学生。",
+        "pinyin": "Wǒ yě shì xuéshēng.",
+        "meaning": "I am also a student."
+      },
+      {
+        "sentence": "他也在家。",
+        "pinyin": "Tā yě zài jiā.",
+        "meaning": "He is also at home."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "很",
+    "pinyin": "hěn",
+    "meaning": "very",
+    "radical": "彳",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/很.gif",
+      "page": "https://www.strokeorder.com/character/很"
+    },
+    "examples": [
+      {
+        "sentence": "我很好。",
+        "pinyin": "Wǒ hěn hǎo.",
+        "meaning": "I am very well."
+      },
+      {
+        "sentence": "这本书很新。",
+        "pinyin": "Zhè běn shū hěn xīn.",
+        "meaning": "This book is very new."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "太",
+    "pinyin": "tài",
+    "meaning": "too; very",
+    "radical": "大",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/太.gif",
+      "page": "https://www.strokeorder.com/character/太"
+    },
+    "examples": [
+      {
+        "sentence": "这本书太好。",
+        "pinyin": "Zhè běn shū tài hǎo.",
+        "meaning": "This book is too good."
+      },
+      {
+        "sentence": "今天太忙了。",
+        "pinyin": "Jīntiān tài máng le.",
+        "meaning": "Today is too busy."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "都",
+    "pinyin": "dōu",
+    "meaning": "all; both",
+    "radical": "阝",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/都.gif",
+      "page": "https://www.strokeorder.com/character/都"
+    },
+    "examples": [
+      {
+        "sentence": "我们都是学生。",
+        "pinyin": "Wǒmen dōu shì xuéshēng.",
+        "meaning": "We are all students."
+      },
+      {
+        "sentence": "书和钱都在这。",
+        "pinyin": "Shū hé qián dōu zài zhè.",
+        "meaning": "Both the book and the money are here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "还",
+    "pinyin": "hái",
+    "meaning": "still; yet",
+    "radical": "辶",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/还.gif",
+      "page": "https://www.strokeorder.com/character/还"
+    },
+    "examples": [
+      {
+        "sentence": "他还在家。",
+        "pinyin": "Tā hái zài jiā.",
+        "meaning": "He is still at home."
+      },
+      {
+        "sentence": "我还要水。",
+        "pinyin": "Wǒ hái yào shuǐ.",
+        "meaning": "I still want water."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "再",
+    "pinyin": "zài",
+    "meaning": "again",
+    "radical": "冂",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/再.gif",
+      "page": "https://www.strokeorder.com/character/再"
+    },
+    "examples": [
+      {
+        "sentence": "请再说一次。",
+        "pinyin": "Qǐng zài shuō yí cì.",
+        "meaning": "Please say it again."
+      },
+      {
+        "sentence": "我明天再来。",
+        "pinyin": "Wǒ míngtiān zài lái.",
+        "meaning": "I will come again tomorrow."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "就",
+    "pinyin": "jiù",
+    "meaning": "then; right away",
+    "radical": "尢",
+    "stroke_count": 12,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/就.gif",
+      "page": "https://www.strokeorder.com/character/就"
+    },
+    "examples": [
+      {
+        "sentence": "我现在就走。",
+        "pinyin": "Wǒ xiànzài jiù zǒu.",
+        "meaning": "I’ll leave right now."
+      },
+      {
+        "sentence": "他吃完饭就来。",
+        "pinyin": "Tā chī wán fàn jiù lái.",
+        "meaning": "He will come after eating."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "对",
+    "pinyin": "duì",
+    "meaning": "correct; right",
+    "radical": "寸",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/对.gif",
+      "page": "https://www.strokeorder.com/character/对"
+    },
+    "examples": [
+      {
+        "sentence": "你说得对。",
+        "pinyin": "Nǐ shuō de duì.",
+        "meaning": "What you said is correct."
+      },
+      {
+        "sentence": "这个答案对。",
+        "pinyin": "Zhège dá’àn duì.",
+        "meaning": "This answer is right."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "错",
+    "pinyin": "cuò",
+    "meaning": "wrong",
+    "radical": "钅",
+    "stroke_count": 13,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/错.gif",
+        "page": "https://www.strokeorder.com/character/错"
+    },
+    "examples": [
+      {
+        "sentence": "这个不对，是错的。",
+        "pinyin": "Zhège bú duì, shì cuò de.",
+        "meaning": "This is not right; it is wrong."
+      },
+      {
+        "sentence": "我说错了。",
+        "pinyin": "Wǒ shuō cuò le.",
+        "meaning": "I said it wrong."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "好",
+    "pinyin": "hǎo",
+    "meaning": "good",
+    "radical": "女",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/好.gif",
+      "page": "https://www.strokeorder.com/character/好"
+    },
+    "examples": [
+      {
+        "sentence": "今天天气很好。",
+        "pinyin": "Jīntiān tiānqì hěn hǎo.",
+        "meaning": "The weather is very good today."
+      },
+      {
+        "sentence": "这个地方很好。",
+        "pinyin": "Zhège dìfāng hěn hǎo.",
+        "meaning": "This place is very good."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "大",
+    "pinyin": "dà",
+    "meaning": "big",
+    "radical": "大",
+    "stroke_count": 3,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/大.gif",
+      "page": "https://www.strokeorder.com/character/大"
+    },
+    "examples": [
+      {
+        "sentence": "这个房子很大。",
+        "pinyin": "Zhège fángzi hěn dà.",
+        "meaning": "This house is very big."
+      },
+      {
+        "sentence": "北京是大城市。",
+        "pinyin": "Běijīng shì dà chéngshì.",
+        "meaning": "Beijing is a big city."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "小",
+    "pinyin": "xiǎo",
+    "meaning": "small",
+    "radical": "小",
+    "stroke_count": 3,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/小.gif",
+      "page": "https://www.strokeorder.com/character/小"
+    },
+    "examples": [
+      {
+        "sentence": "这只猫很小。",
+        "pinyin": "Zhè zhī māo hěn xiǎo.",
+        "meaning": "This cat is very small."
+      },
+      {
+        "sentence": "我住在小房子里。",
+        "pinyin": "Wǒ zhù zài xiǎo fángzi lǐ.",
+        "meaning": "I live in a small house."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "多",
+    "pinyin": "duō",
+    "meaning": "many; much",
+    "radical": "夕",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/多.gif",
+      "page": "https://www.strokeorder.com/character/多"
+    },
+    "examples": [
+      {
+        "sentence": "这里人很多。",
+        "pinyin": "Zhèlǐ rén hěn duō.",
+        "meaning": "There are many people here."
+      },
+      {
+        "sentence": "我有很多朋友。",
+        "pinyin": "Wǒ yǒu hěn duō péngyǒu.",
+        "meaning": "I have many friends."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "少",
+    "pinyin": "shǎo",
+    "meaning": "few; little",
+    "radical": "小",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/少.gif",
+      "page": "https://www.strokeorder.com/character/少"
+    },
+    "examples": [
+      {
+        "sentence": "这里人很少。",
+        "pinyin": "Zhèlǐ rén hěn shǎo.",
+        "meaning": "There are few people here."
+      },
+      {
+        "sentence": "我时间很少。",
+        "pinyin": "Wǒ shíjiān hěn shǎo.",
+        "meaning": "I have little time."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "冷",
+    "pinyin": "lěng",
+    "meaning": "cold",
+    "radical": "冫",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/冷.gif",
+      "page": "https://www.strokeorder.com/character/冷"
+    },
+    "examples": [
+      {
+        "sentence": "今天很冷。",
+        "pinyin": "Jīntiān hěn lěng.",
+        "meaning": "Today is very cold."
+      },
+      {
+        "sentence": "屋里不冷。",
+        "pinyin": "Wū lǐ bù lěng.",
+        "meaning": "It is not cold inside."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "热",
+    "pinyin": "rè",
+    "meaning": "hot",
+    "radical": "灬",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/热.gif",
+      "page": "https://www.strokeorder.com/character/热"
+    },
+    "examples": [
+      {
+        "sentence": "今天很热。",
+        "pinyin": "Jīntiān hěn rè.",
+        "meaning": "Today is very hot."
+      },
+      {
+        "sentence": "水很热。",
+        "pinyin": "Shuǐ hěn rè.",
+        "meaning": "The water is hot."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "早",
+    "pinyin": "zǎo",
+    "meaning": "early; morning",
+    "radical": "日",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/早.gif",
+      "page": "https://www.strokeorder.com/character/早"
+    },
+    "examples": [
+      {
+        "sentence": "我早起。",
+        "pinyin": "Wǒ zǎo qǐ.",
+        "meaning": "I get up early."
+      },
+      {
+        "sentence": "我们早上见。",
+        "pinyin": "Wǒmen zǎoshang jiàn.",
+        "meaning": "We’ll meet in the morning."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "晚",
+    "pinyin": "wǎn",
+    "meaning": "late; evening",
+    "radical": "日",
+    "stroke_count": 11,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/晚.gif",
+      "page": "https://www.strokeorder.com/character/晚"
+    },
+    "examples": [
+      {
+        "sentence": "我晚上回家。",
+        "pinyin": "Wǒ wǎnshang huí jiā.",
+        "meaning": "I go home in the evening."
+      },
+      {
+        "sentence": "今天不晚。",
+        "pinyin": "Jīntiān bù wǎn.",
+        "meaning": "It’s not late today."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "忙",
+    "pinyin": "máng",
+    "meaning": "busy",
+    "radical": "心",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/忙.gif",
+      "page": "https://www.strokeorder.com/character/忙"
+    },
+    "examples": [
+      {
+        "sentence": "我今天很忙。",
+        "pinyin": "Wǒ jīntiān hěn máng.",
+        "meaning": "I am very busy today."
+      },
+      {
+        "sentence": "他不忙。",
+        "pinyin": "Tā bù máng.",
+        "meaning": "He is not busy."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "累",
+    "pinyin": "lèi",
+    "meaning": "tired",
+    "radical": "糸",
+    "stroke_count": 11,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/累.gif",
+      "page": "https://www.strokeorder.com/character/累"
+    },
+    "examples": [
+      {
+        "sentence": "我很累。",
+        "pinyin": "Wǒ hěn lèi.",
+        "meaning": "I am very tired."
+      },
+      {
+        "sentence": "他工作累。",
+        "pinyin": "Tā gōngzuò lèi.",
+        "meaning": "His work is tiring."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "高",
+    "pinyin": "gāo",
+    "meaning": "tall; high",
+    "radical": "高",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/高.gif",
+      "page": "https://www.strokeorder.com/character/高"
+    },
+    "examples": [
+      {
+        "sentence": "他很高。",
+        "pinyin": "Tā hěn gāo.",
+        "meaning": "He is very tall."
+      },
+      {
+        "sentence": "这个楼很高。",
+        "pinyin": "Zhège lóu hěn gāo.",
+        "meaning": "This building is very high."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "低",
+    "pinyin": "dī",
+    "meaning": "low",
+    "radical": "亻",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/低.gif",
+      "page": "https://www.strokeorder.com/character/低"
+    },
+    "examples": [
+      {
+        "sentence": "这个桌子低。",
+        "pinyin": "Zhège zhuōzi dī.",
+        "meaning": "This table is low."
+      },
+      {
+        "sentence": "声音很低。",
+        "pinyin": "Shēngyīn hěn dī.",
+        "meaning": "The sound is very low."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "新",
+    "pinyin": "xīn",
+    "meaning": "new",
+    "radical": "斤",
+    "stroke_count": 13,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/新.gif",
+      "page": "https://www.strokeorder.com/character/新"
+    },
+    "examples": [
+      {
+        "sentence": "这是新书。",
+        "pinyin": "Zhè shì xīn shū.",
+        "meaning": "This is a new book."
+      },
+      {
+        "sentence": "我有新手机。",
+        "pinyin": "Wǒ yǒu xīn shǒujī.",
+        "meaning": "I have a new phone."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "旧",
+    "pinyin": "jiù",
+    "meaning": "old (used)",
+    "radical": "日",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/旧.gif",
+      "page": "https://www.strokeorder.com/character/旧"
+    },
+    "examples": [
+      {
+        "sentence": "这是旧书。",
+        "pinyin": "Zhè shì jiù shū.",
+        "meaning": "This is an old book."
+      },
+      {
+        "sentence": "他的车很旧。",
+        "pinyin": "Tā de chē hěn jiù.",
+        "meaning": "His car is very old."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "远",
+    "pinyin": "yuǎn",
+    "meaning": "far",
+    "radical": "辶",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/远.gif",
+      "page": "https://www.strokeorder.com/character/远"
+    },
+    "examples": [
+      {
+        "sentence": "学校很远。",
+        "pinyin": "Xuéxiào hěn yuǎn.",
+        "meaning": "The school is far."
+      },
+      {
+        "sentence": "他家不远。",
+        "pinyin": "Tā jiā bù yuǎn.",
+        "meaning": "His home is not far."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "近",
+    "pinyin": "jìn",
+    "meaning": "near",
+    "radical": "辶",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/近.gif",
+      "page": "https://www.strokeorder.com/character/近"
+    },
+    "examples": [
+      {
+        "sentence": "我家很近。",
+        "pinyin": "Wǒ jiā hěn jìn.",
+        "meaning": "My home is very near."
+      },
+      {
+        "sentence": "商店在这儿，很近。",
+        "pinyin": "Shāngdiàn zài zhèr, hěn jìn.",
+        "meaning": "The shop is here; it’s very close."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "开",
+    "pinyin": "kāi",
+    "meaning": "open",
+    "radical": "廾",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/开.gif",
+      "page": "https://www.strokeorder.com/character/开"
+    },
+    "examples": [
+      {
+        "sentence": "门开了。",
+        "pinyin": "Mén kāi le.",
+        "meaning": "The door is open."
+      },
+      {
+        "sentence": "商店开门。",
+        "pinyin": "Shāngdiàn kāi mén.",
+        "meaning": "The shop opens."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "关",
+    "pinyin": "guān",
+    "meaning": "close",
+    "radical": "八",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/关.gif",
+      "page": "https://www.strokeorder.com/character/关"
+    },
+    "examples": [
+      {
+        "sentence": "门关了。",
+        "pinyin": "Mén guān le.",
+        "meaning": "The door is closed."
+      },
+      {
+        "sentence": "请关灯。",
+        "pinyin": "Qǐng guān dēng.",
+        "meaning": "Please turn off the light."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "来",
+    "pinyin": "lái",
+    "meaning": "to come",
+    "radical": "木",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/来.gif",
+      "page": "https://www.strokeorder.com/character/来"
+    },
+    "examples": [
+      {
+        "sentence": "他明天来。",
+        "pinyin": "Tā míngtiān lái.",
+        "meaning": "He will come tomorrow."
+      },
+      {
+        "sentence": "朋友来我家。",
+        "pinyin": "Péngyǒu lái wǒ jiā.",
+        "meaning": "A friend comes to my home."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "去",
+    "pinyin": "qù",
+    "meaning": "to go",
+    "radical": "厶",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/去.gif",
+      "page": "https://www.strokeorder.com/character/去"
+    },
+    "examples": [
+      {
+        "sentence": "我去学校。",
+        "pinyin": "Wǒ qù xuéxiào.",
+        "meaning": "I go to school."
+      },
+      {
+        "sentence": "他们去北京。",
+        "pinyin": "Tāmen qù Běijīng.",
+        "meaning": "They go to Beijing."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "回",
+    "pinyin": "huí",
+    "meaning": "to return",
+    "radical": "囗",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/回.gif",
+      "page": "https://www.strokeorder.com/character/回"
+    },
+    "examples": [
+      {
+        "sentence": "我晚上回家。",
+        "pinyin": "Wǒ wǎnshang huí jiā.",
+        "meaning": "I go home in the evening."
+      },
+      {
+        "sentence": "他回中国。",
+        "pinyin": "Tā huí Zhōngguó.",
+        "meaning": "He returns to China."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "看",
+    "pinyin": "kàn",
+    "meaning": "to look; to watch",
+    "radical": "目",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/看.gif",
+      "page": "https://www.strokeorder.com/character/看"
+    },
+    "examples": [
+      {
+        "sentence": "我看书。",
+        "pinyin": "Wǒ kàn shū.",
+        "meaning": "I read a book."
+      },
+      {
+        "sentence": "他看电视。",
+        "pinyin": "Tā kàn diànshì.",
+        "meaning": "He watches TV."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "听",
+    "pinyin": "tīng",
+    "meaning": "to listen",
+    "radical": "口",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/听.gif",
+      "page": "https://www.strokeorder.com/character/听"
+    },
+    "examples": [
+      {
+        "sentence": "我听音乐。",
+        "pinyin": "Wǒ tīng yīnyuè.",
+        "meaning": "I listen to music."
+      },
+      {
+        "sentence": "听老师说。",
+        "pinyin": "Tīng lǎoshī shuō.",
+        "meaning": "Listen to the teacher."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "说",
+    "pinyin": "shuō",
+    "meaning": "to speak",
+    "radical": "讠",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/说.gif",
+      "page": "https://www.strokeorder.com/character/说"
+    },
+    "examples": [
+      {
+        "sentence": "他说中文。",
+        "pinyin": "Tā shuō Zhōngwén.",
+        "meaning": "He speaks Chinese."
+      },
+      {
+        "sentence": "我说谢谢。",
+        "pinyin": "Wǒ shuō xièxie.",
+        "meaning": "I say thank you."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "读",
+    "pinyin": "dú",
+    "meaning": "to read",
+    "radical": "讠",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/读.gif",
+      "page": "https://www.strokeorder.com/character/读"
+    },
+    "examples": [
+      {
+        "sentence": "我读书。",
+        "pinyin": "Wǒ dú shū.",
+        "meaning": "I read books."
+      },
+      {
+        "sentence": "学生读课文。",
+        "pinyin": "Xuéshēng dú kèwén.",
+        "meaning": "Students read the text."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "写",
+    "pinyin": "xiě",
+    "meaning": "to write",
+    "radical": "冖",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/写.gif",
+      "page": "https://www.strokeorder.com/character/写"
+    },
+    "examples": [
+      {
+        "sentence": "我写字。",
+        "pinyin": "Wǒ xiě zì.",
+        "meaning": "I write characters."
+      },
+      {
+        "sentence": "他写名字。",
+        "pinyin": "Tā xiě míngzi.",
+        "meaning": "He writes his name."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "吃",
+    "pinyin": "chī",
+    "meaning": "to eat",
+    "radical": "口",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/吃.gif",
+      "page": "https://www.strokeorder.com/character/吃"
+    },
+    "examples": [
+      {
+        "sentence": "我吃饭。",
+        "pinyin": "Wǒ chī fàn.",
+        "meaning": "I eat a meal."
+      },
+      {
+        "sentence": "他吃苹果。",
+        "pinyin": "Tā chī píngguǒ.",
+        "meaning": "He eats an apple."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "喝",
+    "pinyin": "hē",
+    "meaning": "to drink",
+    "radical": "口",
+    "stroke_count": 12,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/喝.gif",
+      "page": "https://www.strokeorder.com/character/喝"
+    },
+    "examples": [
+      {
+        "sentence": "我喝水。",
+        "pinyin": "Wǒ hē shuǐ.",
+        "meaning": "I drink water."
+      },
+      {
+        "sentence": "她喝茶。",
+        "pinyin": "Tā hē chá.",
+        "meaning": "She drinks tea."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "买",
+    "pinyin": "mǎi",
+    "meaning": "to buy",
+    "radical": "乙",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/买.gif",
+      "page": "https://www.strokeorder.com/character/买"
+    },
+    "examples": [
+      {
+        "sentence": "我买书。",
+        "pinyin": "Wǒ mǎi shū.",
+        "meaning": "I buy books."
+      },
+      {
+        "sentence": "她买咖啡。",
+        "pinyin": "Tā mǎi kāfēi.",
+        "meaning": "She buys coffee."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "卖",
+    "pinyin": "mài",
+    "meaning": "to sell",
+    "radical": "十",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/卖.gif",
+      "page": "https://www.strokeorder.com/character/卖"
+    },
+    "examples": [
+      {
+        "sentence": "商店卖水。",
+        "pinyin": "Shāngdiàn mài shuǐ.",
+        "meaning": "The shop sells water."
+      },
+      {
+        "sentence": "他卖水果。",
+        "pinyin": "Tā mài shuǐguǒ.",
+        "meaning": "He sells fruit."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "做",
+    "pinyin": "zuò",
+    "meaning": "to do; to make",
+    "radical": "亻",
+    "stroke_count": 11,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/做.gif",
+      "page": "https://www.strokeorder.com/character/做"
+    },
+    "examples": [
+      {
+        "sentence": "我做饭。",
+        "pinyin": "Wǒ zuò fàn.",
+        "meaning": "I cook."
+      },
+      {
+        "sentence": "他做工作。",
+        "pinyin": "Tā zuò gōngzuò.",
+        "meaning": "He does work."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "找",
+    "pinyin": "zhǎo",
+    "meaning": "to look for",
+    "radical": "扌",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/找.gif",
+      "page": "https://www.strokeorder.com/character/找"
+    },
+    "examples": [
+      {
+        "sentence": "我找朋友。",
+        "pinyin": "Wǒ zhǎo péngyǒu.",
+        "meaning": "I look for a friend."
+      },
+      {
+        "sentence": "他找老师。",
+        "pinyin": "Tā zhǎo lǎoshī.",
+        "meaning": "He looks for the teacher."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "给",
+    "pinyin": "gěi",
+    "meaning": "to give",
+    "radical": "纟",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/给.gif",
+      "page": "https://www.strokeorder.com/character/给"
+    },
+    "examples": [
+      {
+        "sentence": "他给我书。",
+        "pinyin": "Tā gěi wǒ shū.",
+        "meaning": "He gives me a book."
+      },
+      {
+        "sentence": "我给老师钱。",
+        "pinyin": "Wǒ gěi lǎoshī qián.",
+        "meaning": "I give the teacher money."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "叫",
+    "pinyin": "jiào",
+    "meaning": "to be called; to call",
+    "radical": "口",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/叫.gif",
+      "page": "https://www.strokeorder.com/character/叫"
+    },
+    "examples": [
+      {
+        "sentence": "我叫李明。",
+        "pinyin": "Wǒ jiào Lǐ Míng.",
+        "meaning": "My name is Li Ming."
+      },
+      {
+        "sentence": "他叫我。",
+        "pinyin": "Tā jiào wǒ.",
+        "meaning": "He calls me."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "住",
+    "pinyin": "zhù",
+    "meaning": "to live; to stay",
+    "radical": "亻",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/住.gif",
+      "page": "https://www.strokeorder.com/character/住"
+    },
+    "examples": [
+      {
+        "sentence": "我住北京。",
+        "pinyin": "Wǒ zhù Běijīng.",
+        "meaning": "I live in Beijing."
+      },
+      {
+        "sentence": "他住这儿。",
+        "pinyin": "Tā zhù zhèr.",
+        "meaning": "He lives here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "坐",
+    "pinyin": "zuò",
+    "meaning": "to sit",
+    "radical": "土",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/坐.gif",
+      "page": "https://www.strokeorder.com/character/坐"
+    },
+    "examples": [
+      {
+        "sentence": "请坐。",
+        "pinyin": "Qǐng zuò.",
+        "meaning": "Please sit."
+      },
+      {
+        "sentence": "他坐这儿。",
+        "pinyin": "Tā zuò zhèr.",
+        "meaning": "He sits here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "站",
+    "pinyin": "zhàn",
+    "meaning": "to stand",
+    "radical": "立",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/站.gif",
+      "page": "https://www.strokeorder.com/character/站"
+    },
+    "examples": [
+      {
+        "sentence": "他站门口。",
+        "pinyin": "Tā zhàn ménkǒu.",
+        "meaning": "He stands at the door."
+      },
+      {
+        "sentence": "我站这儿。",
+        "pinyin": "Wǒ zhàn zhèr.",
+        "meaning": "I stand here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "走",
+    "pinyin": "zǒu",
+    "meaning": "to walk; to leave",
+    "radical": "走",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/走.gif",
+      "page": "https://www.strokeorder.com/character/走"
+    },
+    "examples": [
+      {
+        "sentence": "我走了。",
+        "pinyin": "Wǒ zǒu le.",
+        "meaning": "I’m leaving."
+      },
+      {
+        "sentence": "我们走路。",
+        "pinyin": "Wǒmen zǒu lù.",
+        "meaning": "We walk."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "跑",
+    "pinyin": "pǎo",
+    "meaning": "to run",
+    "radical": "足",
+    "stroke_count": 12,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/跑.gif",
+      "page": "https://www.strokeorder.com/character/跑"
+    },
+    "examples": [
+      {
+        "sentence": "他跑很快。",
+        "pinyin": "Tā pǎo hěn kuài.",
+        "meaning": "He runs very fast."
+      },
+      {
+        "sentence": "孩子跑了。",
+        "pinyin": "Háizi pǎo le.",
+        "meaning": "The child ran away."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "学",
+    "pinyin": "xué",
+    "meaning": "to study; to learn",
+    "radical": "子",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/学.gif",
+      "page": "https://www.strokeorder.com/character/学"
+    },
+    "examples": [
+      {
+        "sentence": "我学中文。",
+        "pinyin": "Wǒ xué Zhōngwén.",
+        "meaning": "I study Chinese."
+      },
+      {
+        "sentence": "学生学习。",
+        "pinyin": "Xuéshēng xuéxí.",
+        "meaning": "Students study."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "教",
+    "pinyin": "jiāo",
+    "meaning": "to teach",
+    "radical": "攵",
+    "stroke_count": 11,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/教.gif",
+      "page": "https://www.strokeorder.com/character/教"
+    },
+    "examples": [
+      {
+        "sentence": "老师教中文。",
+        "pinyin": "Lǎoshī jiāo Zhōngwén.",
+        "meaning": "The teacher teaches Chinese."
+      },
+      {
+        "sentence": "他教学生。",
+        "pinyin": "Tā jiāo xuéshēng.",
+        "meaning": "He teaches students."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "问",
+    "pinyin": "wèn",
+    "meaning": "to ask",
+    "radical": "门",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/问.gif",
+      "page": "https://www.strokeorder.com/character/问"
+    },
+    "examples": [
+      {
+        "sentence": "我问老师。",
+        "pinyin": "Wǒ wèn lǎoshī.",
+        "meaning": "I ask the teacher."
+      },
+      {
+        "sentence": "他问问题。",
+        "pinyin": "Tā wèn wèntí.",
+        "meaning": "He asks a question."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "答",
+    "pinyin": "dá",
+    "meaning": "to answer",
+    "radical": "竹",
+    "stroke_count": 12,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/答.gif",
+      "page": "https://www.strokeorder.com/character/答"
+    },
+    "examples": [
+      {
+        "sentence": "我回答。",
+        "pinyin": "Wǒ huídá.",
+        "meaning": "I answer."
+      },
+      {
+        "sentence": "学生答问题。",
+        "pinyin": "Xuéshēng dá wèntí.",
+        "meaning": "Students answer questions."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "认",
+    "pinyin": "rèn",
+    "meaning": "to recognize",
+    "radical": "讠",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/认.gif",
+      "page": "https://www.strokeorder.com/character/认"
+    },
+    "examples": [
+      {
+        "sentence": "我认识你。",
+        "pinyin": "Wǒ rènshi nǐ.",
+        "meaning": "I know you."
+      },
+      {
+        "sentence": "他认字。",
+        "pinyin": "Tā rèn zì.",
+        "meaning": "He recognizes characters."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "识",
+    "pinyin": "shí",
+    "meaning": "to know; to recognize",
+    "radical": "讠",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/识.gif",
+      "page": "https://www.strokeorder.com/character/识"
+    },
+    "examples": [
+      {
+        "sentence": "我认识老师。",
+        "pinyin": "Wǒ rènshi lǎoshī.",
+        "meaning": "I know the teacher."
+      },
+      {
+        "sentence": "他不认识我。",
+        "pinyin": "Tā bù rènshi wǒ.",
+        "meaning": "He doesn’t know me."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "会",
+    "pinyin": "huì",
+    "meaning": "can; know how to",
+    "radical": "人",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/会.gif",
+      "page": "https://www.strokeorder.com/character/会"
+    },
+    "examples": [
+      {
+        "sentence": "我会说中文。",
+        "pinyin": "Wǒ huì shuō Zhōngwén.",
+        "meaning": "I can speak Chinese."
+      },
+      {
+        "sentence": "他会开车。",
+        "pinyin": "Tā huì kāi chē.",
+        "meaning": "He can drive."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "能",
+    "pinyin": "néng",
+    "meaning": "can; be able to",
+    "radical": "月",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/能.gif",
+      "page": "https://www.strokeorder.com/character/能"
+    },
+    "examples": [
+      {
+        "sentence": "我能去。",
+        "pinyin": "Wǒ néng qù.",
+        "meaning": "I can go."
+      },
+      {
+        "sentence": "你能来吗？",
+        "pinyin": "Nǐ néng lái ma?",
+        "meaning": "Can you come?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "想",
+    "pinyin": "xiǎng",
+    "meaning": "to want; to think",
+    "radical": "心",
+    "stroke_count": 13,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/想.gif",
+      "page": "https://www.strokeorder.com/character/想"
+    },
+    "examples": [
+      {
+        "sentence": "我想吃饭。",
+        "pinyin": "Wǒ xiǎng chī fàn.",
+        "meaning": "I want to eat."
+      },
+      {
+        "sentence": "他想回家。",
+        "pinyin": "Tā xiǎng huí jiā.",
+        "meaning": "He wants to go home."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "要",
+    "pinyin": "yào",
+    "meaning": "to want; to need",
+    "radical": "覀",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/要.gif",
+      "page": "https://www.strokeorder.com/character/要"
+    },
+    "examples": [
+      {
+        "sentence": "我要水。",
+        "pinyin": "Wǒ yào shuǐ.",
+        "meaning": "I want water."
+      },
+      {
+        "sentence": "你要什么？",
+        "pinyin": "Nǐ yào shénme?",
+        "meaning": "What do you want?"
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "爱",
+    "pinyin": "ài",
+    "meaning": "to love",
+    "radical": "爫",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/爱.gif",
+      "page": "https://www.strokeorder.com/character/爱"
+    },
+    "examples": [
+      {
+        "sentence": "我爱家。",
+        "pinyin": "Wǒ ài jiā.",
+        "meaning": "I love my family."
+      },
+      {
+        "sentence": "她爱孩子。",
+        "pinyin": "Tā ài háizi.",
+        "meaning": "She loves her child."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "家",
+    "pinyin": "jiā",
+    "meaning": "home; family",
+    "radical": "宀",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/家.gif",
+      "page": "https://www.strokeorder.com/character/家"
+    },
+    "examples": [
+      {
+        "sentence": "我回家。",
+        "pinyin": "Wǒ huí jiā.",
+        "meaning": "I go home."
+      },
+      {
+        "sentence": "这是我家。",
+        "pinyin": "Zhè shì wǒ jiā.",
+        "meaning": "This is my home."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "人",
+    "pinyin": "rén",
+    "meaning": "person; people",
+    "radical": "人",
+    "stroke_count": 2,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/人.gif",
+      "page": "https://www.strokeorder.com/character/人"
+    },
+    "examples": [
+      {
+        "sentence": "我是中国人。",
+        "pinyin": "Wǒ shì Zhōngguó rén.",
+        "meaning": "I am Chinese."
+      },
+      {
+        "sentence": "这里人多。",
+        "pinyin": "Zhèlǐ rén duō.",
+        "meaning": "There are many people here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "朋",
+    "pinyin": "péng",
+    "meaning": "friend (part of 朋友)",
+    "radical": "月",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/朋.gif",
+      "page": "https://www.strokeorder.com/character/朋"
+    },
+    "examples": [
+      {
+        "sentence": "他是我朋友。",
+        "pinyin": "Tā shì wǒ péngyǒu.",
+        "meaning": "He is my friend."
+      },
+      {
+        "sentence": "朋友来了。",
+        "pinyin": "Péngyǒu lái le.",
+        "meaning": "A friend has come."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "友",
+    "pinyin": "yǒu",
+    "meaning": "friend (part of 朋友)",
+    "radical": "又",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/友.gif",
+      "page": "https://www.strokeorder.com/character/友"
+    },
+    "examples": [
+      {
+        "sentence": "我有朋友。",
+        "pinyin": "Wǒ yǒu péngyǒu.",
+        "meaning": "I have friends."
+      },
+      {
+        "sentence": "朋友在家。",
+        "pinyin": "Péngyǒu zài jiā.",
+        "meaning": "A friend is at home."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "老",
+    "pinyin": "lǎo",
+    "meaning": "old; teacher (prefix)",
+    "radical": "老",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/老.gif",
+      "page": "https://www.strokeorder.com/character/老"
+    },
+    "examples": [
+      {
+        "sentence": "他是老师。",
+        "pinyin": "Tā shì lǎoshī.",
+        "meaning": "He is a teacher."
+      },
+      {
+        "sentence": "这位老师很好。",
+        "pinyin": "Zhè wèi lǎoshī hěn hǎo.",
+        "meaning": "This teacher is very good."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "师",
+    "pinyin": "shī",
+    "meaning": "teacher (part of 老师)",
+    "radical": "巾",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/师.gif",
+      "page": "https://www.strokeorder.com/character/师"
+    },
+    "examples": [
+      {
+        "sentence": "老师来了。",
+        "pinyin": "Lǎoshī lái le.",
+        "meaning": "The teacher has come."
+      },
+      {
+        "sentence": "师生在学校。",
+        "pinyin": "Shī shēng zài xuéxiào.",
+        "meaning": "Teachers and students are at school."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "生",
+    "pinyin": "shēng",
+    "meaning": "student; to be born",
+    "radical": "生",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/生.gif",
+      "page": "https://www.strokeorder.com/character/生"
+    },
+    "examples": [
+      {
+        "sentence": "我是学生。",
+        "pinyin": "Wǒ shì xuéshēng.",
+        "meaning": "I am a student."
+      },
+      {
+        "sentence": "学生在教室。",
+        "pinyin": "Xuéshēng zài jiàoshì.",
+        "meaning": "Students are in the classroom."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "医",
+    "pinyin": "yī",
+    "meaning": "doctor (part of 医生)",
+    "radical": "匚",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/医.gif",
+      "page": "https://www.strokeorder.com/character/医"
+    },
+    "examples": [
+      {
+        "sentence": "医生来了。",
+        "pinyin": "Yīshēng lái le.",
+        "meaning": "The doctor has come."
+      },
+      {
+        "sentence": "他找医生。",
+        "pinyin": "Tā zhǎo yīshēng.",
+        "meaning": "He looks for a doctor."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "中",
+    "pinyin": "zhōng",
+    "meaning": "middle; China (short form)",
+    "radical": "丨",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/中.gif",
+      "page": "https://www.strokeorder.com/character/中"
+    },
+    "examples": [
+      {
+        "sentence": "我学中文。",
+        "pinyin": "Wǒ xué Zhōngwén.",
+        "meaning": "I study Chinese."
+      },
+      {
+        "sentence": "中国很大。",
+        "pinyin": "Zhōngguó hěn dà.",
+        "meaning": "China is very big."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "国",
+    "pinyin": "guó",
+    "meaning": "country",
+    "radical": "囗",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/国.gif",
+      "page": "https://www.strokeorder.com/character/国"
+    },
+    "examples": [
+      {
+        "sentence": "我是中国人。",
+        "pinyin": "Wǒ shì Zhōngguó rén.",
+        "meaning": "I am Chinese."
+      },
+      {
+        "sentence": "这个国家很大。",
+        "pinyin": "Zhège guójiā hěn dà.",
+        "meaning": "This country is very big."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "北",
+    "pinyin": "běi",
+    "meaning": "north (part of 北京)",
+    "radical": "匕",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/北.gif",
+      "page": "https://www.strokeorder.com/character/北"
+    },
+    "examples": [
+      {
+        "sentence": "北京在北边。",
+        "pinyin": "Běijīng zài běibiān.",
+        "meaning": "Beijing is in the north."
+      },
+      {
+        "sentence": "北方很冷。",
+        "pinyin": "Běifāng hěn lěng.",
+        "meaning": "The north is very cold."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "京",
+    "pinyin": "jīng",
+    "meaning": "capital (part of 北京)",
+    "radical": "亠",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/京.gif",
+      "page": "https://www.strokeorder.com/character/京"
+    },
+    "examples": [
+      {
+        "sentence": "我住北京。",
+        "pinyin": "Wǒ zhù Běijīng.",
+        "meaning": "I live in Beijing."
+      },
+      {
+        "sentence": "北京很大。",
+        "pinyin": "Běijīng hěn dà.",
+        "meaning": "Beijing is very big."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "校",
+    "pinyin": "xiào",
+    "meaning": "school (part of 学校)",
+    "radical": "木",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/校.gif",
+      "page": "https://www.strokeorder.com/character/校"
+    },
+    "examples": [
+      {
+        "sentence": "学校很大。",
+        "pinyin": "Xuéxiào hěn dà.",
+        "meaning": "The school is very big."
+      },
+      {
+        "sentence": "我在学校。",
+        "pinyin": "Wǒ zài xuéxiào.",
+        "meaning": "I am at school."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "公",
+    "pinyin": "gōng",
+    "meaning": "public; company (part of 公司)",
+    "radical": "八",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/公.gif",
+      "page": "https://www.strokeorder.com/character/公"
+    },
+    "examples": [
+      {
+        "sentence": "他在公司工作。",
+        "pinyin": "Tā zài gōngsī gōngzuò.",
+        "meaning": "He works at a company."
+      },
+      {
+        "sentence": "公司很大。",
+        "pinyin": "Gōngsī hěn dà.",
+        "meaning": "The company is big."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "司",
+    "pinyin": "sī",
+    "meaning": "company (part of 公司)",
+    "radical": "口",
+    "stroke_count": 5,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/司.gif",
+      "page": "https://www.strokeorder.com/character/司"
+    },
+    "examples": [
+      {
+        "sentence": "我在公司。",
+        "pinyin": "Wǒ zài gōngsī.",
+        "meaning": "I am at the company."
+      },
+      {
+        "sentence": "公司在这儿。",
+        "pinyin": "Gōngsī zài zhèr.",
+        "meaning": "The company is here."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "店",
+    "pinyin": "diàn",
+    "meaning": "shop; store",
+    "radical": "广",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/店.gif",
+      "page": "https://www.strokeorder.com/character/店"
+    },
+    "examples": [
+      {
+        "sentence": "商店开门。",
+        "pinyin": "Shāngdiàn kāi mén.",
+        "meaning": "The shop is open."
+      },
+      {
+        "sentence": "我去商店。",
+        "pinyin": "Wǒ qù shāngdiàn.",
+        "meaning": "I go to the shop."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "饭",
+    "pinyin": "fàn",
+    "meaning": "rice; meal",
+    "radical": "饣",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/饭.gif",
+      "page": "https://www.strokeorder.com/character/饭"
+    },
+    "examples": [
+      {
+        "sentence": "我吃饭。",
+        "pinyin": "Wǒ chī fàn.",
+        "meaning": "I eat a meal."
+      },
+      {
+        "sentence": "饭很好吃。",
+        "pinyin": "Fàn hěn hǎo chī.",
+        "meaning": "The food is very tasty."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water",
+    "radical": "水",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/水.gif",
+      "page": "https://www.strokeorder.com/character/水"
+    },
+    "examples": [
+      {
+        "sentence": "我喝水。",
+        "pinyin": "Wǒ hē shuǐ.",
+        "meaning": "I drink water."
+      },
+      {
+        "sentence": "水很冷。",
+        "pinyin": "Shuǐ hěn lěng.",
+        "meaning": "The water is cold."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "茶",
+    "pinyin": "chá",
+    "meaning": "tea",
+    "radical": "艹",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/茶.gif",
+      "page": "https://www.strokeorder.com/character/茶"
+    },
+    "examples": [
+      {
+        "sentence": "我喝茶。",
+        "pinyin": "Wǒ hē chá.",
+        "meaning": "I drink tea."
+      },
+      {
+        "sentence": "茶很热。",
+        "pinyin": "Chá hěn rè.",
+        "meaning": "The tea is hot."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "咖",
+    "pinyin": "kā",
+    "meaning": "coffee (part of 咖啡)",
+    "radical": "口",
+    "stroke_count": 11,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/咖.gif",
+      "page": "https://www.strokeorder.com/character/咖"
+    },
+    "examples": [
+      {
+        "sentence": "我喝咖啡。",
+        "pinyin": "Wǒ hē kāfēi.",
+        "meaning": "I drink coffee."
+      },
+      {
+        "sentence": "咖啡很香。",
+        "pinyin": "Kāfēi hěn xiāng.",
+        "meaning": "The coffee smells good."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "啡",
+    "pinyin": "fēi",
+    "meaning": "coffee (part of 咖啡)",
+    "radical": "口",
+    "stroke_count": 11,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/啡.gif",
+      "page": "https://www.strokeorder.com/character/啡"
+    },
+    "examples": [
+      {
+        "sentence": "他买咖啡。",
+        "pinyin": "Tā mǎi kāfēi.",
+        "meaning": "He buys coffee."
+      },
+      {
+        "sentence": "咖啡不贵。",
+        "pinyin": "Kāfēi bù guì.",
+        "meaning": "Coffee is not expensive."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "苹",
+    "pinyin": "píng",
+    "meaning": "apple (part of 苹果)",
+    "radical": "艹",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/苹.gif",
+      "page": "https://www.strokeorder.com/character/苹"
+    },
+    "examples": [
+      {
+        "sentence": "我吃苹果。",
+        "pinyin": "Wǒ chī píngguǒ.",
+        "meaning": "I eat an apple."
+      },
+      {
+        "sentence": "苹果很好吃。",
+        "pinyin": "Píngguǒ hěn hǎo chī.",
+        "meaning": "Apples are very tasty."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "果",
+    "pinyin": "guǒ",
+    "meaning": "fruit",
+    "radical": "木",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/果.gif",
+      "page": "https://www.strokeorder.com/character/果"
+    },
+    "examples": [
+      {
+        "sentence": "我买水果。",
+        "pinyin": "Wǒ mǎi shuǐguǒ.",
+        "meaning": "I buy fruit."
+      },
+      {
+        "sentence": "水果很新。",
+        "pinyin": "Shuǐguǒ hěn xīn.",
+        "meaning": "The fruit is fresh."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "书",
+    "pinyin": "shū",
+    "meaning": "book",
+    "radical": "乙",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/书.gif",
+      "page": "https://www.strokeorder.com/character/书"
+    },
+    "examples": [
+      {
+        "sentence": "我看书。",
+        "pinyin": "Wǒ kàn shū.",
+        "meaning": "I read a book."
+      },
+      {
+        "sentence": "这本书很好。",
+        "pinyin": "Zhè běn shū hěn hǎo.",
+        "meaning": "This book is very good."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "钱",
+    "pinyin": "qián",
+    "meaning": "money",
+    "radical": "钅",
+    "stroke_count": 10,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/钱.gif",
+      "page": "https://www.strokeorder.com/character/钱"
+    },
+    "examples": [
+      {
+        "sentence": "我有钱。",
+        "pinyin": "Wǒ yǒu qián.",
+        "meaning": "I have money."
+      },
+      {
+        "sentence": "钱在包里。",
+        "pinyin": "Qián zài bāo lǐ.",
+        "meaning": "The money is in the bag."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "时",
+    "pinyin": "shí",
+    "meaning": "time; hour (part of 时间)",
+    "radical": "日",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/时.gif",
+      "page": "https://www.strokeorder.com/character/时"
+    },
+    "examples": [
+      {
+        "sentence": "我有时间。",
+        "pinyin": "Wǒ yǒu shíjiān.",
+        "meaning": "I have time."
+      },
+      {
+        "sentence": "时间不多。",
+        "pinyin": "Shíjiān bù duō.",
+        "meaning": "There is not much time."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "间",
+    "pinyin": "jiān",
+    "meaning": "interval; room (part of 时间)",
+    "radical": "门",
+    "stroke_count": 7,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/间.gif",
+      "page": "https://www.strokeorder.com/character/间"
+    },
+    "examples": [
+      {
+        "sentence": "时间很快。",
+        "pinyin": "Shíjiān hěn kuài.",
+        "meaning": "Time goes fast."
+      },
+      {
+        "sentence": "我有时间。",
+        "pinyin": "Wǒ yǒu shíjiān.",
+        "meaning": "I have time."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "今",
+    "pinyin": "jīn",
+    "meaning": "today (part of 今天)",
+    "radical": "人",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/今.gif",
+      "page": "https://www.strokeorder.com/character/今"
+    },
+    "examples": [
+      {
+        "sentence": "今天很忙。",
+        "pinyin": "Jīntiān hěn máng.",
+        "meaning": "Today is very busy."
+      },
+      {
+        "sentence": "今天不冷。",
+        "pinyin": "Jīntiān bù lěng.",
+        "meaning": "Today is not cold."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "天",
+    "pinyin": "tiān",
+    "meaning": "day; sky",
+    "radical": "大",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/天.gif",
+      "page": "https://www.strokeorder.com/character/天"
+    },
+    "examples": [
+      {
+        "sentence": "今天天气好。",
+        "pinyin": "Jīntiān tiānqì hǎo.",
+        "meaning": "The weather is good today."
+      },
+      {
+        "sentence": "明天见。",
+        "pinyin": "Míngtiān jiàn.",
+        "meaning": "See you tomorrow."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "明",
+    "pinyin": "míng",
+    "meaning": "bright; tomorrow (part of 明天)",
+    "radical": "日",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/明.gif",
+      "page": "https://www.strokeorder.com/character/明"
+    },
+    "examples": [
+      {
+        "sentence": "明天见。",
+        "pinyin": "Míngtiān jiàn.",
+        "meaning": "See you tomorrow."
+      },
+      {
+        "sentence": "房间很明亮。",
+        "pinyin": "Fángjiān hěn míngliàng.",
+        "meaning": "The room is very bright."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "昨",
+    "pinyin": "zuó",
+    "meaning": "yesterday (part of 昨天)",
+    "radical": "日",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/昨.gif",
+      "page": "https://www.strokeorder.com/character/昨"
+    },
+    "examples": [
+      {
+        "sentence": "昨天很忙。",
+        "pinyin": "Zuótiān hěn máng.",
+        "meaning": "Yesterday was very busy."
+      },
+      {
+        "sentence": "昨天他不在。",
+        "pinyin": "Zuótiān tā bù zài.",
+        "meaning": "He was not here yesterday."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "现",
+    "pinyin": "xiàn",
+    "meaning": "now; present (part of 现在)",
+    "radical": "王",
+    "stroke_count": 8,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/现.gif",
+      "page": "https://www.strokeorder.com/character/现"
+    },
+    "examples": [
+      {
+        "sentence": "我现在忙。",
+        "pinyin": "Wǒ xiànzài máng.",
+        "meaning": "I am busy now."
+      },
+      {
+        "sentence": "现在不冷。",
+        "pinyin": "Xiànzài bù lěng.",
+        "meaning": "It is not cold now."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "年",
+    "pinyin": "nián",
+    "meaning": "year",
+    "radical": "干",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/年.gif",
+      "page": "https://www.strokeorder.com/character/年"
+    },
+    "examples": [
+      {
+        "sentence": "今年很忙。",
+        "pinyin": "Jīnnián hěn máng.",
+        "meaning": "This year is very busy."
+      },
+      {
+        "sentence": "我学了一年。",
+        "pinyin": "Wǒ xué le yì nián.",
+        "meaning": "I studied for one year."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "月",
+    "pinyin": "yuè",
+    "meaning": "month; moon",
+    "radical": "月",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/月.gif",
+      "page": "https://www.strokeorder.com/character/月"
+    },
+    "examples": [
+      {
+        "sentence": "这个月很忙。",
+        "pinyin": "Zhège yuè hěn máng.",
+        "meaning": "This month is very busy."
+      },
+      {
+        "sentence": "下个月见。",
+        "pinyin": "Xià gè yuè jiàn.",
+        "meaning": "See you next month."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "日",
+    "pinyin": "rì",
+    "meaning": "day; sun",
+    "radical": "日",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/日.gif",
+      "page": "https://www.strokeorder.com/character/日"
+    },
+    "examples": [
+      {
+        "sentence": "今天是好日子。",
+        "pinyin": "Jīntiān shì hǎo rìzi.",
+        "meaning": "Today is a good day."
+      },
+      {
+        "sentence": "周日我在家。",
+        "pinyin": "Zhōurì wǒ zài jiā.",
+        "meaning": "I am at home on Sunday."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "点",
+    "pinyin": "diǎn",
+    "meaning": "o’clock; point",
+    "radical": "灬",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/点.gif",
+      "page": "https://www.strokeorder.com/character/点"
+    },
+    "examples": [
+      {
+        "sentence": "现在三点。",
+        "pinyin": "Xiànzài sān diǎn.",
+        "meaning": "It is three o’clock now."
+      },
+      {
+        "sentence": "八点见。",
+        "pinyin": "Bā diǎn jiàn.",
+        "meaning": "See you at eight."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "分",
+    "pinyin": "fēn",
+    "meaning": "minute; part",
+    "radical": "刀",
+    "stroke_count": 4,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/分.gif",
+        "page": "https://www.strokeorder.com/character/分"
+    },
+    "examples": [
+      {
+        "sentence": "现在三点十分。",
+        "pinyin": "Xiànzài sān diǎn shí fēn.",
+        "meaning": "It is ten past three."
+      },
+      {
+        "sentence": "等我五分钟。",
+        "pinyin": "Děng wǒ wǔ fēnzhōng.",
+        "meaning": "Wait for me five minutes."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "上",
+    "pinyin": "shàng",
+    "meaning": "up; on",
+    "radical": "一",
+    "stroke_count": 3,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/上.gif",
+      "page": "https://www.strokeorder.com/character/上"
+    },
+    "examples": [
+      {
+        "sentence": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "meaning": "The book is on the table."
+      },
+      {
+        "sentence": "我上车。",
+        "pinyin": "Wǒ shàng chē.",
+        "meaning": "I get on the car."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "下",
+    "pinyin": "xià",
+    "meaning": "down; under",
+    "radical": "一",
+    "stroke_count": 3,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/下.gif",
+      "page": "https://www.strokeorder.com/character/下"
+    },
+    "examples": [
+      {
+        "sentence": "猫在桌子下。",
+        "pinyin": "Māo zài zhuōzi xià.",
+        "meaning": "The cat is under the table."
+      },
+      {
+        "sentence": "我下车。",
+        "pinyin": "Wǒ xià chē.",
+        "meaning": "I get off the car."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "前",
+    "pinyin": "qián",
+    "meaning": "front; before",
+    "radical": "刂",
+    "stroke_count": 9,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/前.gif",
+      "page": "https://www.strokeorder.com/character/前"
+    },
+    "examples": [
+      {
+        "sentence": "我在门前。",
+        "pinyin": "Wǒ zài mén qián.",
+        "meaning": "I am in front of the door."
+      },
+      {
+        "sentence": "前面有人。",
+        "pinyin": "Qiánmiàn yǒu rén.",
+        "meaning": "There is someone ahead."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  },
+  {
+    "character": "后",
+    "pinyin": "hòu",
+    "meaning": "back; after",
+    "radical": "口",
+    "stroke_count": 6,
+    "stroke_order": {
+      "gif": "https://www.strokeorder.com/ani/后.gif",
+      "page": "https://www.strokeorder.com/character/后"
+    },
+    "examples": [
+      {
+        "sentence": "我在后面。",
+        "pinyin": "Wǒ zài hòumiàn.",
+        "meaning": "I am at the back."
+      },
+      {
+        "sentence": "下课后见。",
+        "pinyin": "Xià kè hòu jiàn.",
+        "meaning": "See you after class."
+      }
+    ],
+    "details": { "hsk_level": 1, "script": "simplified" }
+  }
+]

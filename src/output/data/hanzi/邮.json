@@ -1,0 +1,20 @@
+{
+  "hanzi": "邮",
+  "pinyin": [
+    "you2"
+  ],
+  "meanings": [
+    "mail",
+    "post (office)"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/37038.svg"
+  }
+}

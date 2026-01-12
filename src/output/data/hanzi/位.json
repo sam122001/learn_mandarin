@@ -1,0 +1,25 @@
+{
+  "hanzi": "位",
+  "pinyin": [
+    "wei4"
+  ],
+  "meanings": [
+    "(physics) potential",
+    "classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)",
+    "classifier for people (honorific)",
+    "location",
+    "place",
+    "position",
+    "seat"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/20301.svg"
+  }
+}

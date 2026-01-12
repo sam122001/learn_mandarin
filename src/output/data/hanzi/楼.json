@@ -1,0 +1,23 @@
+{
+  "hanzi": "楼",
+  "pinyin": [
+    "lou2"
+  ],
+  "meanings": [
+    "CL:層|层[ceng2],座[zuo4],棟|栋[dong4]",
+    "floor",
+    "house with more than 1 story",
+    "storied building",
+    "surname Lou"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 13,
+    "svg": "strokes/svg/27004.svg"
+  }
+}

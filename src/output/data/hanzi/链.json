@@ -1,0 +1,23 @@
+{
+  "hanzi": "链",
+  "pinyin": [
+    "lian4"
+  ],
+  "meanings": [
+    "cable (unit of length: 100 fathoms, about 185 m)",
+    "chain",
+    "chain (unit of length: 66 feet, about 20 m)",
+    "to chain",
+    "to enchain"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/38142.svg"
+  }
+}

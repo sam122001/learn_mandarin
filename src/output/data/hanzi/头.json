@@ -1,0 +1,35 @@
+{
+  "hanzi": "头",
+  "pinyin": [
+    "tou2",
+    "tou5"
+  ],
+  "meanings": [
+    "CL:個|个[ge4]",
+    "a stub",
+    "aspect",
+    "beginning or end",
+    "boss",
+    "chief",
+    "classifier for pigs or livestock",
+    "end",
+    "first",
+    "hair style",
+    "head",
+    "leading",
+    "remnant",
+    "side",
+    "suffix for nouns",
+    "the top"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/22836.svg"
+  }
+}

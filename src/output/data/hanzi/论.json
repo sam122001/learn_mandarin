@@ -1,0 +1,30 @@
+{
+  "hanzi": "论",
+  "pinyin": [
+    "lun2",
+    "lun4"
+  ],
+  "meanings": [
+    "abbr. for 論語|论语[Lun2 yu3], The Analects (of Confucius)",
+    "by the (kilometer, hour etc)",
+    "doctrine",
+    "opinion",
+    "per",
+    "theory",
+    "to consider",
+    "to discuss",
+    "to regard",
+    "to talk about",
+    "view"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/35770.svg"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "hanzi": "正",
+  "pinyin": [
+    "zheng1",
+    "zheng4"
+  ],
+  "meanings": [
+    "(math.) positive",
+    "exactly",
+    "first month of the lunar year",
+    "just (at that time)",
+    "main",
+    "principal",
+    "proper",
+    "right (in that place)",
+    "straight",
+    "to correct",
+    "to rectify",
+    "upright"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/27491.svg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "hanzi": "起",
+  "pinyin": [
+    "qi3"
+  ],
+  "meanings": [
+    "classifier for groups: batch, group",
+    "classifier for occurrences or unpredictable events: case, instance",
+    "starting from (a time, place, price etc)",
+    "to appear",
+    "to draft",
+    "to establish",
+    "to get (from a depot or counter)",
+    "to get up",
+    "to initiate (action)",
+    "to launch",
+    "to raise",
+    "to rise",
+    "to set out",
+    "to start",
+    "verb suffix, to start"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/36215.svg"
+  }
+}

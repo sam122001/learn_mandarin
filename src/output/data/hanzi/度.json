@@ -1,0 +1,30 @@
+{
+  "hanzi": "度",
+  "pinyin": [
+    "du4",
+    "duo2"
+  ],
+  "meanings": [
+    "Taiwan pr. [duo4]",
+    "classifier for events and occurrences",
+    "degree (angles, temperature etc)",
+    "degree of intensity",
+    "extent",
+    "kilowatt-hour",
+    "limit",
+    "measure",
+    "to estimate",
+    "to pass",
+    "to spend (time)"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/24230.svg"
+  }
+}

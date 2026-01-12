@@ -1,0 +1,23 @@
+{
+  "hanzi": "请",
+  "pinyin": [
+    "qing3"
+  ],
+  "meanings": [
+    "please (do sth)",
+    "to ask",
+    "to invite",
+    "to request",
+    "to treat (to a meal etc)"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/35831.svg"
+  }
+}

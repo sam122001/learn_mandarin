@@ -1,0 +1,32 @@
+{
+  "hanzi": "看",
+  "pinyin": [
+    "kan1",
+    "kan4"
+  ],
+  "meanings": [
+    "(after a verb) to give it a try",
+    "to consider; to regard as",
+    "to depend on",
+    "to feel (that)",
+    "to guard",
+    "to look after",
+    "to read",
+    "to see; to look at",
+    "to take care of",
+    "to treat (a patient or illness)",
+    "to visit; to call on",
+    "to watch",
+    "to watch out for"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/30475.svg"
+  }
+}

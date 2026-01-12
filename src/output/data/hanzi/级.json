@@ -1,0 +1,24 @@
+{
+  "hanzi": "级",
+  "pinyin": [
+    "ji2"
+  ],
+  "meanings": [
+    "CL:個|个[ge4]",
+    "classifier: step, level",
+    "grade",
+    "level",
+    "rank",
+    "step (of stairs)"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/32423.svg"
+  }
+}

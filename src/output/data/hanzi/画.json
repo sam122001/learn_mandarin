@@ -1,0 +1,23 @@
+{
+  "hanzi": "画",
+  "pinyin": [
+    "hua4"
+  ],
+  "meanings": [
+    "(calligraphy) horizontal stroke (variant of 劃|划[hua4])",
+    "picture; painting (CL:幅[fu2],張|张[zhang1])",
+    "stroke of a Chinese character (variant of 劃|划[hua4])",
+    "to draw (a line) (variant of 劃|划[hua4])",
+    "to draw; to paint"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/30011.svg"
+  }
+}

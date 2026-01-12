@@ -1,0 +1,28 @@
+{
+  "hanzi": "黑",
+  "pinyin": [
+    "hei1"
+  ],
+  "meanings": [
+    "(loanword) to hack (computing)",
+    "abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1]",
+    "black",
+    "dark",
+    "illegal",
+    "secret",
+    "shady",
+    "sinister",
+    "to hide (sth) away",
+    "to vilify"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/40657.svg"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "hanzi": "挡",
+  "pinyin": [
+    "dang3",
+    "dang4"
+  ],
+  "meanings": [
+    "cover",
+    "gear (e.g. in a car's transmission)",
+    "to arrange",
+    "to block (a blow)",
+    "to get in the way of",
+    "to hinder",
+    "to keep off",
+    "to obstruct",
+    "to put in order",
+    "to resist",
+    "variant of 擋|挡[dang3]"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/25377.svg"
+  }
+}

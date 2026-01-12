@@ -1,0 +1,25 @@
+{
+  "hanzi": "潜",
+  "pinyin": [
+    "qian2"
+  ],
+  "meanings": [
+    "hidden",
+    "latent",
+    "secret",
+    "to conceal",
+    "to dive",
+    "to hide",
+    "to submerge"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 15,
+    "svg": "strokes/svg/28508.svg"
+  }
+}

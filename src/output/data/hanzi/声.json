@@ -1,0 +1,24 @@
+{
+  "hanzi": "声",
+  "pinyin": [
+    "sheng1"
+  ],
+  "meanings": [
+    "classifier for sounds",
+    "noise",
+    "reputation",
+    "sound",
+    "tone",
+    "voice"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/22768.svg"
+  }
+}

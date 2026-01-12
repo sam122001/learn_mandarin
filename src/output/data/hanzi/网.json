@@ -1,0 +1,20 @@
+{
+  "hanzi": "网",
+  "pinyin": [
+    "wang3"
+  ],
+  "meanings": [
+    "net",
+    "network"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/32593.svg"
+  }
+}

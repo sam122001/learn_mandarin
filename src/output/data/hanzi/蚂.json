@@ -1,0 +1,24 @@
+{
+  "hanzi": "蚂",
+  "pinyin": [
+    "ma1",
+    "ma3",
+    "ma4"
+  ],
+  "meanings": [
+    "used in 螞蚱|蚂蚱[ma4 zha5]",
+    "used in 螞螂|蚂螂[ma1 lang2]",
+    "used in 螞蟥|蚂蟥[ma3 huang2]",
+    "used in 螞蟻|蚂蚁[ma3 yi3]"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/34434.svg"
+  }
+}

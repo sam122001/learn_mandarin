@@ -1,0 +1,25 @@
+{
+  "hanzi": "收",
+  "pinyin": [
+    "shou1"
+  ],
+  "meanings": [
+    "in care of (used on address line after name)",
+    "to accept",
+    "to collect",
+    "to put away",
+    "to receive",
+    "to restrain",
+    "to stop"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/25910.svg"
+  }
+}

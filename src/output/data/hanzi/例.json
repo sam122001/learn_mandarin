@@ -1,0 +1,23 @@
+{
+  "hanzi": "例",
+  "pinyin": [
+    "li4"
+  ],
+  "meanings": [
+    "case",
+    "example",
+    "instance",
+    "precedent",
+    "rule"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/20363.svg"
+  }
+}

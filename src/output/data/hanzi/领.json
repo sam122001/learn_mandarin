@@ -1,0 +1,23 @@
+{
+  "hanzi": "领",
+  "pinyin": [
+    "ling3"
+  ],
+  "meanings": [
+    "classifier for clothes, mats, screens etc",
+    "collar",
+    "neck",
+    "to lead",
+    "to receive"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/39046.svg"
+  }
+}

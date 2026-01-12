@@ -1,0 +1,32 @@
+{
+  "hanzi": "累",
+  "pinyin": [
+    "lei2",
+    "lei3",
+    "lei4"
+  ],
+  "meanings": [
+    "continuous",
+    "repeated",
+    "rope",
+    "tired",
+    "to accumulate",
+    "to bind together",
+    "to involve or implicate (Taiwan pr. [lei4])",
+    "to strain",
+    "to twist around",
+    "to wear out",
+    "to work hard",
+    "weary"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/32047.svg"
+  }
+}

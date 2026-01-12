@@ -1,0 +1,28 @@
+{
+  "hanzi": "晕",
+  "pinyin": [
+    "yun1",
+    "yun4"
+  ],
+  "meanings": [
+    "confused",
+    "dizzy",
+    "giddy",
+    "halo",
+    "ring around moon or sun",
+    "to faint",
+    "to lose consciousness",
+    "to pass out",
+    "to swoon"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26197.svg"
+  }
+}

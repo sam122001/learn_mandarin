@@ -1,0 +1,34 @@
+{
+  "hanzi": "号",
+  "pinyin": [
+    "hao2",
+    "hao4"
+  ],
+  "meanings": [
+    "CL:個|个[ge4]",
+    "assumed name",
+    "bugle call",
+    "business establishment",
+    "classifier used to indicate number of people",
+    "cry",
+    "day of a month",
+    "horn (wind instrument)",
+    "mark",
+    "ordinal number",
+    "roar",
+    "ship suffix",
+    "sign",
+    "size",
+    "to take a pulse"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/21495.svg"
+  }
+}

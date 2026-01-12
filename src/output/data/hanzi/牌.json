@@ -1,0 +1,22 @@
+{
+  "hanzi": "牌",
+  "pinyin": [
+    "pai2"
+  ],
+  "meanings": [
+    "(bound form) fixed pattern for lyrics or set melody in classical poetry or music (used in 詞牌|词牌[ci2 pai2] and 曲牌[qu3 pai2])",
+    "brand; trademark (CL:個|个[ge4])",
+    "mahjong tile; domino; playing card (CL:張|张[zhang1])",
+    "signboard; plaque; plate; tablet (CL:塊|块[kuai4])"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/29260.svg"
+  }
+}

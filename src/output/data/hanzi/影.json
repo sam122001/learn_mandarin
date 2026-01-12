@@ -1,0 +1,26 @@
+{
+  "hanzi": "影",
+  "pinyin": [
+    "ying3"
+  ],
+  "meanings": [
+    "film",
+    "image",
+    "movie",
+    "photograph",
+    "picture",
+    "reflection",
+    "shadow",
+    "trace"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 15,
+    "svg": "strokes/svg/24433.svg"
+  }
+}

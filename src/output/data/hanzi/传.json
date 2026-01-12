@@ -1,0 +1,30 @@
+{
+  "hanzi": "传",
+  "pinyin": [
+    "chuan2",
+    "zhuan4"
+  ],
+  "meanings": [
+    "biography",
+    "commentaries",
+    "historical narrative",
+    "relay station",
+    "to circulate",
+    "to conduct (electricity)",
+    "to infect",
+    "to pass on",
+    "to spread",
+    "to transfer",
+    "to transmit"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/20256.svg"
+  }
+}

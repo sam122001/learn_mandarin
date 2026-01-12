@@ -1,0 +1,29 @@
+{
+  "hanzi": "图",
+  "pinyin": [
+    "tu2"
+  ],
+  "meanings": [
+    "CL:張|张[zhang1]",
+    "chart",
+    "diagram",
+    "drawing",
+    "map",
+    "picture",
+    "to attempt",
+    "to plan",
+    "to pursue",
+    "to scheme",
+    "to seek"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/22270.svg"
+  }
+}

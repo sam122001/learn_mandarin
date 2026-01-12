@@ -1,0 +1,25 @@
+{
+  "hanzi": "音",
+  "pinyin": [
+    "yin1"
+  ],
+  "meanings": [
+    "news",
+    "noise",
+    "note (of musical scale)",
+    "reading (phonetic value of a character)",
+    "sound",
+    "syllable",
+    "tone"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/38899.svg"
+  }
+}

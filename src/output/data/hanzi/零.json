@@ -1,0 +1,30 @@
+{
+  "hanzi": "零",
+  "pinyin": [
+    "ling2"
+  ],
+  "meanings": [
+    "(in mathematics) remainder (after division)",
+    "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+    "extra",
+    "fraction",
+    "fractional",
+    "fragmentary",
+    "nought",
+    "odd (of numbers)",
+    "to wither",
+    "to wither and fall",
+    "zero",
+    "zero sign"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 13,
+    "svg": "strokes/svg/38646.svg"
+  }
+}

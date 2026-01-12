@@ -1,0 +1,24 @@
+{
+  "hanzi": "胳",
+  "pinyin": [
+    "ga1",
+    "ge1",
+    "ge2"
+  ],
+  "meanings": [
+    "armpit",
+    "used in 胳肢[ge2 zhi5]",
+    "used in 胳肢窩|胳肢窝[ga1 zhi5 wo1]",
+    "variant of 胳[ge1]"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/33011.svg"
+  }
+}

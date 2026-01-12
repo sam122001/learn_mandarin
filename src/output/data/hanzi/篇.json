@@ -1,0 +1,22 @@
+{
+  "hanzi": "篇",
+  "pinyin": [
+    "pian1"
+  ],
+  "meanings": [
+    "bound set of bamboo slips used for record keeping (old)",
+    "classifier for written items: chapter, article",
+    "piece of writing",
+    "sheet"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 15,
+    "svg": "strokes/svg/31687.svg"
+  }
+}

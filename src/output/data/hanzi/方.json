@@ -1,0 +1,34 @@
+{
+  "hanzi": "方",
+  "pinyin": [
+    "fang1"
+  ],
+  "meanings": [
+    "abbr. for square or cubic meter",
+    "classifier for square things",
+    "direction",
+    "fair and square",
+    "honest",
+    "just when",
+    "method",
+    "only or just",
+    "party (to a contract, dispute etc)",
+    "place",
+    "power or involution (math.)",
+    "prescription (medicine)",
+    "side",
+    "square",
+    "surname Fang",
+    "upright"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/26041.svg"
+  }
+}

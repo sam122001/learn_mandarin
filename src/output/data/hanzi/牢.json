@@ -1,0 +1,23 @@
+{
+  "hanzi": "牢",
+  "pinyin": [
+    "lao2"
+  ],
+  "meanings": [
+    "firm",
+    "fold (for animals)",
+    "prison",
+    "sacrifice",
+    "sturdy"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/29282.svg"
+  }
+}

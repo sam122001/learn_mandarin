@@ -1,0 +1,30 @@
+{
+  "hanzi": "单",
+  "pinyin": [
+    "chan2",
+    "dan1",
+    "shan4"
+  ],
+  "meanings": [
+    "CL:個|个[ge4]",
+    "bill",
+    "form",
+    "list",
+    "odd number",
+    "only",
+    "single",
+    "sole",
+    "surname Shan",
+    "used in 單于|单于[chan2 yu2]"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/21333.svg"
+  }
+}

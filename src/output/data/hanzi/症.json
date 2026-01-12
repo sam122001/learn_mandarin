@@ -1,0 +1,24 @@
+{
+  "hanzi": "症",
+  "pinyin": [
+    "zheng1",
+    "zheng4"
+  ],
+  "meanings": [
+    "(fig.) sticking point",
+    "abdominal tumor",
+    "bowel obstruction",
+    "disease",
+    "illness"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/30151.svg"
+  }
+}

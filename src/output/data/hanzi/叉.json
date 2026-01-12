@@ -1,0 +1,31 @@
+{
+  "hanzi": "叉",
+  "pinyin": [
+    "cha1",
+    "cha2",
+    "cha3"
+  ],
+  "meanings": [
+    "\"X\"",
+    "be stuck",
+    "cross",
+    "fork",
+    "intersect",
+    "pick",
+    "pitchfork",
+    "prong",
+    "to cross",
+    "to diverge",
+    "to open (as legs)"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 3,
+    "svg": "strokes/svg/21449.svg"
+  }
+}

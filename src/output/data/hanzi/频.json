@@ -1,0 +1,21 @@
+{
+  "hanzi": "频",
+  "pinyin": [
+    "pin2"
+  ],
+  "meanings": [
+    "frequency",
+    "frequently",
+    "repetitious"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 13,
+    "svg": "strokes/svg/39057.svg"
+  }
+}

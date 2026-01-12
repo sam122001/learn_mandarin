@@ -1,0 +1,22 @@
+{
+  "hanzi": "拼",
+  "pinyin": [
+    "pin1"
+  ],
+  "meanings": [
+    "to piece together; to put together",
+    "to pool (resources etc); to share",
+    "to risk all; to go all out",
+    "to spell (words)"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/25340.svg"
+  }
+}

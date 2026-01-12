@@ -1,0 +1,22 @@
+{
+  "hanzi": "星",
+  "pinyin": [
+    "xing1"
+  ],
+  "meanings": [
+    "heavenly body",
+    "satellite",
+    "small amount",
+    "star"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/26143.svg"
+  }
+}

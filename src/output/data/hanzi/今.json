@@ -1,0 +1,23 @@
+{
+  "hanzi": "今",
+  "pinyin": [
+    "jin1"
+  ],
+  "meanings": [
+    "contemporary",
+    "current",
+    "now",
+    "the present time",
+    "this (day, year etc)"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/20170.svg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "hanzi": "瓶",
+  "pinyin": [
+    "ping2"
+  ],
+  "meanings": [
+    "CL:個|个[ge4]",
+    "bottle",
+    "classifier for wine and liquids",
+    "pitcher",
+    "variant of 瓶[ping2]",
+    "vase"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/29942.svg"
+  }
+}

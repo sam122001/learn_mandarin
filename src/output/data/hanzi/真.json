@@ -1,0 +1,24 @@
+{
+  "hanzi": "真",
+  "pinyin": [
+    "zhen1"
+  ],
+  "meanings": [
+    "genuine",
+    "indeed",
+    "real",
+    "really",
+    "true",
+    "truly"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/30495.svg"
+  }
+}

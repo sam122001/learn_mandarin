@@ -1,0 +1,27 @@
+{
+  "hanzi": "本",
+  "pinyin": [
+    "ben3"
+  ],
+  "meanings": [
+    "(bound form) inherent",
+    "(bound form) one's own; this",
+    "(bound form) origin; source",
+    "(bound form) original",
+    "(bound form) root; stem",
+    "(bound form) this; the current (year etc)",
+    "capital; principal",
+    "classifier for books, periodicals, files etc",
+    "originally; initially"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/26412.svg"
+  }
+}

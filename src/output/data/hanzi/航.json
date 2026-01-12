@@ -1,0 +1,24 @@
+{
+  "hanzi": "航",
+  "pinyin": [
+    "hang2"
+  ],
+  "meanings": [
+    "boat",
+    "craft",
+    "ship",
+    "to fly",
+    "to navigate",
+    "to sail"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/33322.svg"
+  }
+}

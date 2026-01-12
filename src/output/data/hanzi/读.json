@@ -1,0 +1,25 @@
+{
+  "hanzi": "读",
+  "pinyin": [
+    "dou4",
+    "du2"
+  ],
+  "meanings": [
+    "comma",
+    "phrase marked by pause",
+    "to attend (school); to study (a subject in school)",
+    "to pronounce",
+    "to read",
+    "to read out; to read aloud"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/35835.svg"
+  }
+}

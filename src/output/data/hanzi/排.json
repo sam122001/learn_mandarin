@@ -1,0 +1,29 @@
+{
+  "hanzi": "排",
+  "pinyin": [
+    "pai2"
+  ],
+  "meanings": [
+    "a line",
+    "a row",
+    "classifier for lines, rows etc",
+    "platoon",
+    "raft",
+    "to arrange",
+    "to drain",
+    "to eliminate",
+    "to line up",
+    "to push open",
+    "to set in order"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/25490.svg"
+  }
+}

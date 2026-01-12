@@ -1,0 +1,23 @@
+{
+  "hanzi": "哇",
+  "pinyin": [
+    "wa1",
+    "wa5"
+  ],
+  "meanings": [
+    "Wow!",
+    "replaces 啊[a5] when following the vowel \"u\" or \"ao\"",
+    "sound of a child's crying",
+    "sound of vomiting"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/21703.svg"
+  }
+}

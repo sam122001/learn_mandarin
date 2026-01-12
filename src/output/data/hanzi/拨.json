@@ -1,0 +1,26 @@
+{
+  "hanzi": "拨",
+  "pinyin": [
+    "bo1"
+  ],
+  "meanings": [
+    "classifier: group, batch",
+    "to allocate",
+    "to dial",
+    "to pluck (a string instrument)",
+    "to poke (the fire)",
+    "to push aside with the hand, foot, a stick etc",
+    "to set aside (money)",
+    "to turn round"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/25320.svg"
+  }
+}

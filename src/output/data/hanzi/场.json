@@ -1,0 +1,28 @@
+{
+  "hanzi": "场",
+  "pinyin": [
+    "chang2",
+    "chang3"
+  ],
+  "meanings": [
+    "classifier for events and happenings: spell, episode, bout",
+    "classifier for number of exams",
+    "classifier for sporting or recreational activities",
+    "large place used for a specific purpose",
+    "scene (of a play)",
+    "stage",
+    "threshing floor",
+    "variant of 場|场[chang2]",
+    "variant of 場|场[chang3]"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/22330.svg"
+  }
+}

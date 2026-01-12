@@ -1,0 +1,26 @@
+{
+  "hanzi": "挂",
+  "pinyin": [
+    "gua4"
+  ],
+  "meanings": [
+    "(dialect) to make a phone call",
+    "(of a line) to be dead",
+    "(slang) to kill; to die; to be finished; to fail (an exam)",
+    "classifier for sets or clusters of objects",
+    "to be worried; to be concerned",
+    "to hang up (the phone)",
+    "to hang; to suspend (from a hook etc)",
+    "to register (at a hospital); to make an appointment (with a doctor)"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/25346.svg"
+  }
+}

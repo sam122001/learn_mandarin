@@ -1,0 +1,29 @@
+{
+  "hanzi": "枪",
+  "pinyin": [
+    "qiang1"
+  ],
+  "meanings": [
+    "CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]",
+    "classifier for rifle shots",
+    "firearm",
+    "gun",
+    "rifle",
+    "spear",
+    "surname Qiang",
+    "thing with shape or function similar to a gun",
+    "to knock",
+    "to substitute for another person in a test",
+    "variant of 槍|枪[qiang1]"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/26538.svg"
+  }
+}

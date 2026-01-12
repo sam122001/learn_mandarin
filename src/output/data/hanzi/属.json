@@ -1,0 +1,33 @@
+{
+  "hanzi": "属",
+  "pinyin": [
+    "shu3",
+    "zhu3"
+  ],
+  "meanings": [
+    "affiliated with",
+    "be born in the year of (one of the 12 animals)",
+    "category",
+    "dependents",
+    "family members",
+    "genus (taxonomy)",
+    "subordinate to",
+    "to be",
+    "to belong to",
+    "to concentrate on",
+    "to constitute",
+    "to fix one's attention on",
+    "to join together",
+    "to prove to be"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/23646.svg"
+  }
+}

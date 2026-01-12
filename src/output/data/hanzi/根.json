@@ -1,0 +1,23 @@
+{
+  "hanzi": "根",
+  "pinyin": [
+    "gen1"
+  ],
+  "meanings": [
+    "CL:條|条[tiao2]",
+    "basis",
+    "classifier for long slender objects, e.g. cigarettes, guitar strings",
+    "radical (chemistry)",
+    "root"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26681.svg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "hanzi": "串",
+  "pinyin": [
+    "chuan4"
+  ],
+  "meanings": [
+    "bunch",
+    "classifier for things that are strung together, or in a bunch, or in a row: string of, bunch of, series of",
+    "skewer",
+    "string",
+    "to connect wrongly",
+    "to gang up",
+    "to make a swift or abrupt linear movement (like a bead on an abacus)",
+    "to move across",
+    "to rove",
+    "to skewer",
+    "to string together"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/20018.svg"
+  }
+}

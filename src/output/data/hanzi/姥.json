@@ -1,0 +1,22 @@
+{
+  "hanzi": "姥",
+  "pinyin": [
+    "lao3",
+    "mu3"
+  ],
+  "meanings": [
+    "governess",
+    "grandma (maternal)",
+    "old woman"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/23013.svg"
+  }
+}

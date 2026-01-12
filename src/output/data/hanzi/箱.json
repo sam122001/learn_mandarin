@@ -1,0 +1,21 @@
+{
+  "hanzi": "箱",
+  "pinyin": [
+    "xiang1"
+  ],
+  "meanings": [
+    "box",
+    "chest",
+    "trunk"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 15,
+    "svg": "strokes/svg/31665.svg"
+  }
+}

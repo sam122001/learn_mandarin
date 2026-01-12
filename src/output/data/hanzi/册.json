@@ -1,0 +1,21 @@
+{
+  "hanzi": "册",
+  "pinyin": [
+    "ce4"
+  ],
+  "meanings": [
+    "book",
+    "booklet",
+    "classifier for books"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/20876.svg"
+  }
+}

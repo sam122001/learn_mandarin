@@ -1,0 +1,30 @@
+{
+  "hanzi": "走",
+  "pinyin": [
+    "zou3"
+  ],
+  "meanings": [
+    "away (in compound verbs, such as 撤走[che4 zou3])",
+    "from",
+    "through",
+    "to change (shape, form, meaning)",
+    "to die (euph.)",
+    "to go",
+    "to go away",
+    "to leave",
+    "to move (of vehicle)",
+    "to run",
+    "to visit",
+    "to walk"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/36208.svg"
+  }
+}

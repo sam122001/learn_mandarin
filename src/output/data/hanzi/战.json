@@ -1,0 +1,22 @@
+{
+  "hanzi": "战",
+  "pinyin": [
+    "zhan4"
+  ],
+  "meanings": [
+    "battle",
+    "fight",
+    "to fight",
+    "war"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/25112.svg"
+  }
+}

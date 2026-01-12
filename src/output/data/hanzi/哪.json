@@ -1,0 +1,27 @@
+{
+  "hanzi": "哪",
+  "pinyin": [
+    "na3",
+    "na5",
+    "ne2",
+    "nei3"
+  ],
+  "meanings": [
+    "(emphatic sentence-final particle, used instead of 啊[a5] after a word ending in \"n\")",
+    "Taiwan pr. [nuo2]",
+    "how",
+    "used in 哪吒[Ne2 zha1]",
+    "which",
+    "which? (interrogative, followed by classifier or numeral-classifier)"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/21738.svg"
+  }
+}

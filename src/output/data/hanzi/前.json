@@ -1,0 +1,29 @@
+{
+  "hanzi": "前",
+  "pinyin": [
+    "qian2"
+  ],
+  "meanings": [
+    "BC (e.g. 前293年)",
+    "ago",
+    "ahead",
+    "before",
+    "first",
+    "former",
+    "formerly",
+    "forward",
+    "front",
+    "future",
+    "top (followed by a number)"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/21069.svg"
+  }
+}

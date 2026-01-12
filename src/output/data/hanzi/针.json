@@ -1,0 +1,24 @@
+{
+  "hanzi": "针",
+  "pinyin": [
+    "zhen1"
+  ],
+  "meanings": [
+    "CL:根[gen1],支[zhi1]",
+    "injection",
+    "needle",
+    "pin",
+    "stitch",
+    "variant of 針|针[zhen1], needle"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/38024.svg"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "hanzi": "栏",
+  "pinyin": [
+    "lan2"
+  ],
+  "meanings": [
+    "column or box (of text or other data)",
+    "fence",
+    "hurdle",
+    "railing"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/26639.svg"
+  }
+}

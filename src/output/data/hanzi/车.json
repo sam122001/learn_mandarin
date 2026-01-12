@@ -1,0 +1,29 @@
+{
+  "hanzi": "车",
+  "pinyin": [
+    "che1",
+    "ju1"
+  ],
+  "meanings": [
+    "CL:輛|辆[liang4]",
+    "Kangxi radical 159",
+    "car",
+    "machine",
+    "rook (in Chinese chess)",
+    "rook (in chess)",
+    "surname Che",
+    "to shape with a lathe",
+    "vehicle",
+    "war chariot (archaic)"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/36710.svg"
+  }
+}

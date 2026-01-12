@@ -1,0 +1,21 @@
+{
+  "hanzi": "宾",
+  "pinyin": [
+    "bin1"
+  ],
+  "meanings": [
+    "guest",
+    "object (in grammar)",
+    "visitor"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/23486.svg"
+  }
+}

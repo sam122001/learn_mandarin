@@ -1,0 +1,26 @@
+{
+  "hanzi": "像",
+  "pinyin": [
+    "xiang4"
+  ],
+  "meanings": [
+    "appearance",
+    "image",
+    "image under a mapping (math.)",
+    "portrait",
+    "such as",
+    "to be like",
+    "to look as if",
+    "to resemble"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 13,
+    "svg": "strokes/svg/20687.svg"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hanzi": "陷",
+  "pinyin": [
+    "xian4"
+  ],
+  "meanings": [
+    "defect",
+    "pitfall",
+    "to capture (a city in battle)",
+    "to cave in",
+    "to fall (to the enemy)",
+    "to frame (false charge)",
+    "to get stuck",
+    "to sink",
+    "trap"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/38519.svg"
+  }
+}

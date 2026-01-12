@@ -1,0 +1,22 @@
+{
+  "hanzi": "旁",
+  "pinyin": [
+    "pang2"
+  ],
+  "meanings": [
+    "different",
+    "lateral component of a Chinese character (such as 刂[dao1], 亻[ren2] etc)",
+    "one side",
+    "other"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26049.svg"
+  }
+}

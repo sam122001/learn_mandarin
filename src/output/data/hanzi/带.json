@@ -1,0 +1,35 @@
+{
+  "hanzi": "带",
+  "pinyin": [
+    "dai4"
+  ],
+  "meanings": [
+    "CL:條|条[tiao2]",
+    "area",
+    "band",
+    "belt",
+    "girdle",
+    "region",
+    "ribbon",
+    "tire",
+    "to bear (i.e. to have)",
+    "to bring",
+    "to carry",
+    "to lead",
+    "to look after",
+    "to raise",
+    "to take along",
+    "to wear",
+    "zone"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/24102.svg"
+  }
+}

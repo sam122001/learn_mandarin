@@ -1,0 +1,23 @@
+{
+  "hanzi": "钱",
+  "pinyin": [
+    "qian2"
+  ],
+  "meanings": [
+    "CL:筆|笔[bi3]",
+    "coin",
+    "money",
+    "surname Qian",
+    "unit of weight, one tenth of a tael 兩|两[liang3]"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/38065.svg"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hanzi": "担",
+  "pinyin": [
+    "dan1",
+    "dan4"
+  ],
+  "meanings": [
+    "carrying pole and its load",
+    "classifier for loads carried on a shoulder pole",
+    "picul (100 catties, 50 kg)",
+    "to carry",
+    "to shoulder",
+    "to take responsibility",
+    "to undertake",
+    "two buckets full"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/25285.svg"
+  }
+}

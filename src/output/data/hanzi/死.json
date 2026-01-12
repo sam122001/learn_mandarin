@@ -1,0 +1,25 @@
+{
+  "hanzi": "死",
+  "pinyin": [
+    "si3"
+  ],
+  "meanings": [
+    "damned",
+    "extremely",
+    "impassable",
+    "inflexible",
+    "rigid",
+    "to die",
+    "uncrossable"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/27515.svg"
+  }
+}

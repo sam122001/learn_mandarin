@@ -1,0 +1,27 @@
+{
+  "hanzi": "圈",
+  "pinyin": [
+    "juan1",
+    "juan4",
+    "quan1"
+  ],
+  "meanings": [
+    "circle; ring; loop (CL:個|个[ge4])",
+    "classifier for loops, orbits, laps of race etc",
+    "livestock enclosure; pen; fold; sty",
+    "to confine",
+    "to lock up",
+    "to pen in",
+    "to surround; to circle"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/22280.svg"
+  }
+}

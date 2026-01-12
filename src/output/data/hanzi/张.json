@@ -1,0 +1,24 @@
+{
+  "hanzi": "张",
+  "pinyin": [
+    "zhang1"
+  ],
+  "meanings": [
+    "classifier for flat objects, sheet",
+    "classifier for votes",
+    "sheet of paper",
+    "surname Zhang",
+    "to open up",
+    "to spread"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/24352.svg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "hanzi": "矛",
+  "pinyin": [
+    "mao2"
+  ],
+  "meanings": [
+    "lance",
+    "pike",
+    "spear"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/30683.svg"
+  }
+}

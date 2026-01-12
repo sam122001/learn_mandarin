@@ -1,0 +1,25 @@
+{
+  "hanzi": "阵",
+  "pinyin": [
+    "zhen4"
+  ],
+  "meanings": [
+    "burst",
+    "classifier for events or states of short duration",
+    "disposition of troops",
+    "short period of time",
+    "spate",
+    "spell",
+    "wave"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/38453.svg"
+  }
+}

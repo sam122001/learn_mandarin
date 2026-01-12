@@ -1,0 +1,28 @@
+{
+  "hanzi": "刷",
+  "pinyin": [
+    "shua1",
+    "shua4"
+  ],
+  "meanings": [
+    "(fig.) to remove; to eliminate (from a contest); to fire (from a job)",
+    "(gaming) to grind; to farm (for experience points, equipment, levels etc)",
+    "(onom.) swish; rustle",
+    "a brush",
+    "to brush; to scrub",
+    "to paint; to daub",
+    "to scroll on (a phone)",
+    "to select",
+    "to swipe (a card)"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/21047.svg"
+  }
+}

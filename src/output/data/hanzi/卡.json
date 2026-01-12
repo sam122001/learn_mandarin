@@ -1,0 +1,34 @@
+{
+  "hanzi": "卡",
+  "pinyin": [
+    "ka3",
+    "qia3"
+  ],
+  "meanings": [
+    "(computing) (coll.) slow",
+    "(loanword) card",
+    "CL:張|张[zhang1],片[pian4]",
+    "Taiwan pr. [ka3]",
+    "a checkpost",
+    "a clip",
+    "a fastener",
+    "calorie (abbr. for 卡路里[ka3 lu4 li3])",
+    "cassette",
+    "customs station",
+    "to be stuck",
+    "to be wedged",
+    "to block",
+    "to stop",
+    "truck (from \"car\")"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/21345.svg"
+  }
+}

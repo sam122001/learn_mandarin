@@ -1,0 +1,24 @@
+{
+  "hanzi": "扇",
+  "pinyin": [
+    "shan1",
+    "shan4"
+  ],
+  "meanings": [
+    "classifier for doors, windows etc",
+    "fan",
+    "sliding, hinged or detachable flat part of sth",
+    "to fan",
+    "to slap sb on the face"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/25159.svg"
+  }
+}

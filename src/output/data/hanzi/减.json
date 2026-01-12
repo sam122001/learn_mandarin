@@ -1,0 +1,23 @@
+{
+  "hanzi": "减",
+  "pinyin": [
+    "jian3"
+  ],
+  "meanings": [
+    "to decrease",
+    "to diminish",
+    "to lower",
+    "to reduce",
+    "to subtract"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/20943.svg"
+  }
+}

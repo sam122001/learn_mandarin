@@ -1,0 +1,31 @@
+{
+  "hanzi": "转",
+  "pinyin": [
+    "zhuai3",
+    "zhuan3",
+    "zhuan4"
+  ],
+  "meanings": [
+    "(Internet) to share (sb else's content)",
+    "classifier for repeated actions",
+    "classifier for revolutions (per minute etc): revs, rpm",
+    "see 轉文|转文[zhuai3 wen2]",
+    "to change direction",
+    "to circle about",
+    "to forward (mail)",
+    "to revolve",
+    "to transfer",
+    "to turn",
+    "to walk about"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/36716.svg"
+  }
+}

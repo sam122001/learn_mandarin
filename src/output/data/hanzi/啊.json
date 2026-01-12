@@ -1,0 +1,37 @@
+{
+  "hanzi": "啊",
+  "pinyin": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5"
+  ],
+  "meanings": [
+    "Ah!",
+    "Ah, OK",
+    "Eh?",
+    "My!",
+    "Oh!",
+    "Oh, it's you!",
+    "expression of recognition",
+    "interjection expressing doubt or requiring answer",
+    "interjection of surprise",
+    "interjection of surprise or doubt",
+    "interjection or grunt of agreement",
+    "modal particle ending sentence, showing affirmation, approval, or consent",
+    "uhm",
+    "what's up?",
+    "what?"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/21834.svg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "hanzi": "纸",
+  "pinyin": [
+    "zhi3"
+  ],
+  "meanings": [
+    "classifier for documents, letters etc",
+    "paper (CL:張|张[zhang1],沓[da2])",
+    "variant of 紙|纸[zhi3]"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/32440.svg"
+  }
+}

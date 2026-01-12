@@ -1,0 +1,22 @@
+{
+  "hanzi": "汉",
+  "pinyin": [
+    "han4"
+  ],
+  "meanings": [
+    "Chinese (language)",
+    "Han ethnic group",
+    "man",
+    "the Han dynasty (206 BC-220 AD)"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/27721.svg"
+  }
+}

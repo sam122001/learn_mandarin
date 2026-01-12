@@ -1,0 +1,24 @@
+{
+  "hanzi": "笔",
+  "pinyin": [
+    "bi3"
+  ],
+  "meanings": [
+    "(bound form) style of writing; literary manner; technique of brushwork",
+    "(classifier) stroke of a Chinese character",
+    "(classifier) sum of money; financial transaction; piece of business",
+    "(literary) to write (with a brush or pen)",
+    "brushstroke; stroke (in painting or calligraphy)",
+    "writing brush; writing implement (pen, pencil etc) (CL:支[zhi1],枝[zhi1])"
+  ],
+  "hsk_level": 2,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/31508.svg"
+  }
+}

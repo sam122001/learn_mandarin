@@ -1,0 +1,34 @@
+{
+  "hanzi": "分",
+  "pinyin": [
+    "fen1",
+    "fen4"
+  ],
+  "meanings": [
+    "(bound form) branch of (an organization); sub- (as in 分局[fen1 ju2])",
+    "0.01 yuan (unit of money)",
+    "a point (in sports or games)",
+    "component",
+    "fraction",
+    "ingredient",
+    "minute (angular measurement unit)",
+    "minute (unit of time)",
+    "one tenth (of certain units)",
+    "part",
+    "share",
+    "to distinguish (good and bad)",
+    "to distribute; to allocate",
+    "to divide; to separate",
+    "unit of length equivalent to 0.33 cm"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/20998.svg"
+  }
+}

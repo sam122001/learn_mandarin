@@ -1,0 +1,28 @@
+{
+  "hanzi": "提",
+  "pinyin": [
+    "di1",
+    "ti2"
+  ],
+  "meanings": [
+    "lifting brush stroke (in painting)",
+    "scoop for measuring liquid",
+    "to carry (hanging down from the hand)",
+    "to lift",
+    "to mention",
+    "to put forward",
+    "to raise (an issue)",
+    "upwards character stroke",
+    "used in 提防[di1 fang5] and 提溜[di1 liu5]"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/25552.svg"
+  }
+}

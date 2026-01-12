@@ -1,0 +1,32 @@
+{
+  "hanzi": "恶",
+  "pinyin": [
+    "e3",
+    "e4",
+    "wu4"
+  ],
+  "meanings": [
+    "ashamed",
+    "coarse",
+    "evil",
+    "fierce",
+    "to fear",
+    "to harm",
+    "to hate",
+    "to loathe",
+    "to slander",
+    "ugly",
+    "used in 惡心|恶心[e3 xin1]",
+    "vicious"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/24694.svg"
+  }
+}

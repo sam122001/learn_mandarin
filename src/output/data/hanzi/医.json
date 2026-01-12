@@ -1,0 +1,23 @@
+{
+  "hanzi": "医",
+  "pinyin": [
+    "yi1"
+  ],
+  "meanings": [
+    "doctor",
+    "medical",
+    "medicine",
+    "to cure",
+    "to treat"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 7,
+    "svg": "strokes/svg/21307.svg"
+  }
+}

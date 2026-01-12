@@ -1,0 +1,24 @@
+{
+  "hanzi": "书",
+  "pinyin": [
+    "shu1"
+  ],
+  "meanings": [
+    "CL:本[ben3],冊|册[ce4],部[bu4]",
+    "abbr. for 書經|书经[Shu1 jing1]",
+    "book",
+    "document",
+    "letter",
+    "to write"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/20070.svg"
+  }
+}

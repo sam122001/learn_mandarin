@@ -1,0 +1,25 @@
+{
+  "hanzi": "呢",
+  "pinyin": [
+    "ne5",
+    "ni2"
+  ],
+  "meanings": [
+    "(at the end of a declarative sentence) particle indicating continuation of a state or action",
+    "dense wool fabric (used for coats and jackets)",
+    "particle for inquiring about location (\"Where is ...?\")",
+    "particle indicating strong affirmation",
+    "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+    "particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/21602.svg"
+  }
+}

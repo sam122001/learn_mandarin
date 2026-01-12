@@ -1,0 +1,33 @@
+{
+  "hanzi": "包",
+  "pinyin": [
+    "bao1"
+  ],
+  "meanings": [
+    "CL:個|个[ge4],隻|只[zhi1]",
+    "bag",
+    "bundle",
+    "container",
+    "package",
+    "packet",
+    "surname Bao",
+    "to contract (to or for)",
+    "to cover",
+    "to hold",
+    "to hold or embrace",
+    "to include",
+    "to take charge of",
+    "to wrap",
+    "wrapper"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/21253.svg"
+  }
+}

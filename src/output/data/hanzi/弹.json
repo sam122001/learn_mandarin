@@ -1,0 +1,34 @@
+{
+  "hanzi": "弹",
+  "pinyin": [
+    "dan4",
+    "tan2"
+  ],
+  "meanings": [
+    "(of cotton) to fluff or tease",
+    "ball",
+    "bullet",
+    "crossball",
+    "elastic (of materials)",
+    "shell",
+    "shot",
+    "to accuse",
+    "to flick",
+    "to flip",
+    "to impeach",
+    "to play (a string instrument)",
+    "to pluck (a string)",
+    "to shoot (e.g. with a catapult)",
+    "to spring or leap"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/24377.svg"
+  }
+}

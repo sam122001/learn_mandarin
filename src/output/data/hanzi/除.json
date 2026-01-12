@@ -1,0 +1,26 @@
+{
+  "hanzi": "除",
+  "pinyin": [
+    "chu2"
+  ],
+  "meanings": [
+    "except",
+    "not including",
+    "to divide",
+    "to eliminate",
+    "to exclude",
+    "to get rid of",
+    "to remove",
+    "to wipe out"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 9,
+    "svg": "strokes/svg/38500.svg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "hanzi": "列",
+  "pinyin": [
+    "lie4"
+  ],
+  "meanings": [
+    "(Tw) row",
+    "(in data tables) column",
+    "file",
+    "series",
+    "to arrange",
+    "to line up"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/21015.svg"
+  }
+}

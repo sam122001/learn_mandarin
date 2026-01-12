@@ -1,0 +1,28 @@
+{
+  "hanzi": "中",
+  "pinyin": [
+    "zhong1",
+    "zhong4"
+  ],
+  "meanings": [
+    "(bound form) China; Chinese",
+    "(dialect) OK; all right",
+    "middle; center",
+    "surname Zhong",
+    "to be struck by (a bullet, illness etc)",
+    "to hit (a target)",
+    "to win (a prize or lottery)",
+    "while (doing sth); during",
+    "within; among; in"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/20013.svg"
+  }
+}

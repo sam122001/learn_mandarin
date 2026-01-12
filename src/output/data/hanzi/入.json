@@ -1,0 +1,23 @@
+{
+  "hanzi": "入",
+  "pinyin": [
+    "ru4"
+  ],
+  "meanings": [
+    "(bound form) to conform to (as in 入時|入时[ru4 shi2])",
+    "(on product packaging, after {number n} + {classifier}) containing (n pieces) (from Japanese 入 \"iri\")",
+    "abbr. for 入聲|入声[ru4 sheng1]",
+    "to enter; to go into",
+    "to join; to become a member of"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 2,
+    "svg": "strokes/svg/20837.svg"
+  }
+}

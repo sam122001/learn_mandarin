@@ -1,0 +1,29 @@
+{
+  "hanzi": "招",
+  "pinyin": [
+    "zhao1"
+  ],
+  "meanings": [
+    "a maneuver",
+    "a move (chess)",
+    "contagious",
+    "device",
+    "to beckon",
+    "to confess",
+    "to incur",
+    "to infect",
+    "to provoke",
+    "to recruit",
+    "trick"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/25307.svg"
+  }
+}

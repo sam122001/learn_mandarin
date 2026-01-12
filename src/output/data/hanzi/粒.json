@@ -1,0 +1,21 @@
+{
+  "hanzi": "粒",
+  "pinyin": [
+    "li4"
+  ],
+  "meanings": [
+    "(Tw) classifier for larger round objects (watermelon etc)",
+    "classifier for small round objects (peas, bullets, peanuts, pills, grains etc)",
+    "grain; granule; pellet; particle"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/31890.svg"
+  }
+}

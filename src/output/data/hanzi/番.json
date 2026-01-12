@@ -1,0 +1,24 @@
+{
+  "hanzi": "番",
+  "pinyin": [
+    "fan1",
+    "pan1"
+  ],
+  "meanings": [
+    "(bound form) foreign (non-Chinese); barbarian",
+    "(classifier) (used after the verb 翻[fan1] to indicate how many times a quantity doubles, as in 翻一番[fan1 yi1 fan1] \"to double\")",
+    "(classifier) a kind; a sort",
+    "classifier for processes or actions that take time and effort",
+    "surname Pan"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/30058.svg"
+  }
+}

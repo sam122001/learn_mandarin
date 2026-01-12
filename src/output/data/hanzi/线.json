@@ -1,0 +1,25 @@
+{
+  "hanzi": "线",
+  "pinyin": [
+    "xian4"
+  ],
+  "meanings": [
+    "(after a number) tier (unofficial ranking of a Chinese city)",
+    "CL:條|条[tiao2],股[gu3],根[gen1]",
+    "line",
+    "string",
+    "thread",
+    "variant of 線|线[xian4]",
+    "wire"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 8,
+    "svg": "strokes/svg/32447.svg"
+  }
+}

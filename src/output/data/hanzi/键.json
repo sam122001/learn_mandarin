@@ -1,0 +1,22 @@
+{
+  "hanzi": "键",
+  "pinyin": [
+    "jian4"
+  ],
+  "meanings": [
+    "button (on a mouse or other device)",
+    "chemical bond",
+    "key (on a piano or computer keyboard)",
+    "linchpin"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 13,
+    "svg": "strokes/svg/38190.svg"
+  }
+}

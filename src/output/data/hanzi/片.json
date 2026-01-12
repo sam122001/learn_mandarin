@@ -1,0 +1,35 @@
+{
+  "hanzi": "片",
+  "pinyin": [
+    "pian1",
+    "pian4"
+  ],
+  "meanings": [
+    "Kangxi radical 91",
+    "TV play",
+    "a slice",
+    "classifier for CDs, movies, DVDs etc",
+    "classifier for slices, tablets, tract of land, area of water",
+    "disk",
+    "film",
+    "flake",
+    "incomplete",
+    "one-sided",
+    "partial",
+    "sheet",
+    "thin piece",
+    "to carve thin",
+    "to slice",
+    "used with numeral 一[yi1]: classifier for scenario, scene, feeling, atmosphere, sound etc"
+  ],
+  "hsk_level": 3,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 4,
+    "svg": "strokes/svg/29255.svg"
+  }
+}

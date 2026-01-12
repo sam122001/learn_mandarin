@@ -1,0 +1,24 @@
+{
+  "hanzi": "电",
+  "pinyin": [
+    "dian4"
+  ],
+  "meanings": [
+    "electric (bound form)",
+    "electricity",
+    "lightning",
+    "phone call or telegram etc",
+    "to get (or give) an electric shock",
+    "to send via telephone or telegram etc"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 5,
+    "svg": "strokes/svg/30005.svg"
+  }
+}

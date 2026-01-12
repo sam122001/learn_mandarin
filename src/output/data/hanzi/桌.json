@@ -1,0 +1,22 @@
+{
+  "hanzi": "桌",
+  "pinyin": [
+    "zhuo1"
+  ],
+  "meanings": [
+    "classifier for tables of guests at a banquet etc",
+    "desk",
+    "old variant of 桌[zhuo1]",
+    "table"
+  ],
+  "hsk_level": 1,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 10,
+    "svg": "strokes/svg/26700.svg"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "hanzi": "猪",
+  "pinyin": [
+    "zhu1"
+  ],
+  "meanings": [
+    "CL:口[kou3],頭|头[tou2]",
+    "hog",
+    "pig",
+    "swine"
+  ],
+  "hsk_level": 5,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 11,
+    "svg": "strokes/svg/29482.svg"
+  }
+}

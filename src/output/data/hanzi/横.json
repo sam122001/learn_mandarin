@@ -1,0 +1,31 @@
+{
+  "hanzi": "横",
+  "pinyin": [
+    "heng2",
+    "heng4"
+  ],
+  "meanings": [
+    "(in fixed expressions) harsh and unreasonable",
+    "across",
+    "chaotic",
+    "crosswise",
+    "harsh and unreasonable",
+    "horizontal",
+    "horizontal stroke (in Chinese characters)",
+    "in a jumble",
+    "to cross (a river, etc)",
+    "to place (sth) flat (on a surface)",
+    "unexpected",
+    "violent"
+  ],
+  "hsk_level": 6,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 15,
+    "svg": "strokes/svg/27178.svg"
+  }
+}

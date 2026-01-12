@@ -1,0 +1,27 @@
+{
+  "hanzi": "登",
+  "pinyin": [
+    "deng1"
+  ],
+  "meanings": [
+    "to ascend",
+    "to be gathered and taken to the threshing ground (old)",
+    "to enter (e.g. in a register)",
+    "to mount",
+    "to press down with the foot",
+    "to publish or record",
+    "to put on (shoes or trousers) (dialect)",
+    "to scale (a height)",
+    "to step or tread on"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 12,
+    "svg": "strokes/svg/30331.svg"
+  }
+}

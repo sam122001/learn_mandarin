@@ -1,0 +1,34 @@
+{
+  "hanzi": "划",
+  "pinyin": [
+    "hua2",
+    "hua4"
+  ],
+  "meanings": [
+    "it pays (to do sth)",
+    "profitable",
+    "stroke of a Chinese character",
+    "to assign",
+    "to cut",
+    "to delimit",
+    "to draw (a line)",
+    "to paddle",
+    "to plan",
+    "to row",
+    "to scratch (cut into the surface of sth)",
+    "to slash",
+    "to strike (a match)",
+    "to transfer",
+    "worth (the effort)"
+  ],
+  "hsk_level": 4,
+  "frequency": null,
+  "structure": {
+    "radical": null,
+    "components": []
+  },
+  "strokes": {
+    "count": 6,
+    "svg": "strokes/svg/21010.svg"
+  }
+}
